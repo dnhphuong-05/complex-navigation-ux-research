@@ -1,0 +1,146 @@
+feature_id,level_1,level_2,level_3
+F000,Trang chủ,Tổng quan,
+F010,Trang chủ,Của tôi,Việc cần làm của tôi
+F023,Trang chủ,Của tôi,Chỉ tiêu của tôi
+F026,Trang chủ,Của tôi,Hoa hồng của tôi
+F001,Bán hàng (CRM),Khách hàng,Tổng quan khách hàng
+F002,Bán hàng (CRM),Khách hàng,Liên hệ
+F008,Bán hàng (CRM),Khách hàng,Nhập liên hệ
+F003,Bán hàng (CRM),Khách hàng,Doanh nghiệp
+F004,Bán hàng (CRM),Khách hàng,Khách tiềm năng (Lead)
+F005,Bán hàng (CRM),Khách hàng,Bảng kanban khách hàng
+F012,Bán hàng (CRM),Khách hàng,Danh sách khách hàng
+F011,Bán hàng (CRM),Khách hàng,Sức khoẻ khách hàng
+F013,Bán hàng (CRM),Khách hàng,Cảnh báo khách hàng
+F009,Bán hàng (CRM),Khách hàng,Gộp dữ liệu trùng
+F014,Bán hàng (CRM),Thương vụ,Cơ hội bán
+F016,Bán hàng (CRM),Thương vụ,Bảng kanban thương vụ
+F017,Bán hàng (CRM),Thương vụ,Danh sách thương vụ
+F021,Bán hàng (CRM),Thương vụ,Thắng / Thua
+F029,Bán hàng (CRM),Thương vụ,Lý do thất bại
+F015,Bán hàng (CRM),Thương vụ,Báo cáo phễu bán hàng
+F038,Bán hàng (CRM),Báo giá & phê duyệt,Báo giá
+F028,Bán hàng (CRM),Báo giá & phê duyệt,Yêu cầu chờ duyệt
+F019,Bán hàng (CRM),Dự báo & chỉ tiêu,Dự báo doanh số
+F020,Bán hàng (CRM),Dự báo & chỉ tiêu,Mô phỏng doanh số (what-if)
+F022,Bán hàng (CRM),Dự báo & chỉ tiêu,Chỉ tiêu (hạn ngạch)
+F024,Bán hàng (CRM),Hoa hồng nhân viên,Kế hoạch hoa hồng
+F025,Bán hàng (CRM),Hoa hồng nhân viên,Chi trả hoa hồng nhân viên
+F067,Bán hàng (CRM),Hội thoại,Hộp thư
+F069,Bán hàng (CRM),Hội thoại,SMS
+F071,Bán hàng (CRM),Hội thoại,Zalo ZNS
+F047,Marketing,Email,Tổng quan email
+F053,Marketing,Email,Chiến dịch email
+F051,Marketing,Email,Chuỗi email
+F054,Marketing,Email,Mẫu email
+F048,Marketing,Email,Người đăng ký
+F049,Marketing,Email,Danh sách email
+F056,Marketing,Email,Phân khúc
+F057,Marketing,Email,Biểu mẫu
+F050,Marketing,Email,Báo cáo email
+F058,Marketing,Landing & phễu marketing,Sơ đồ phễu marketing
+F059,Marketing,Landing & phễu marketing,Trang đích
+F060,Marketing,Landing & phễu marketing,Mã QR
+F061,Marketing,Landing & phễu marketing,Link UTM
+F065,Marketing,Khách tiềm năng,Chấm điểm lead
+F066,Marketing,Khách tiềm năng,Phân công lead
+F127,Marketing,Khách tiềm năng,Nguồn lead
+F124,Marketing,Khách tiềm năng,Hành trình khách hàng
+F125,Marketing,Khách tiềm năng,Nguồn & hành trình
+F128,Marketing,Khách tiềm năng,Quy tắc ghi nhận chuyển đổi
+F095,Marketing,Affiliate,Tổng quan affiliate
+F096,Marketing,Affiliate,Đại lý
+F097,Marketing,Affiliate,Link giới thiệu
+F098,Marketing,Affiliate,Chuyển đổi affiliate
+F099,Marketing,Affiliate,Chi trả hoa hồng đại lý
+F030,Đơn hàng & Tài chính (ERP),Sản phẩm & kho,Sản phẩm
+F031,Đơn hàng & Tài chính (ERP),Sản phẩm & kho,Danh mục sản phẩm
+F032,Đơn hàng & Tài chính (ERP),Sản phẩm & kho,Bảng giá
+F033,Đơn hàng & Tài chính (ERP),Sản phẩm & kho,Chiết khấu
+F035,Đơn hàng & Tài chính (ERP),Sản phẩm & kho,Combo
+F034,Đơn hàng & Tài chính (ERP),Sản phẩm & kho,Tồn kho
+F036,Đơn hàng & Tài chính (ERP),Đơn hàng,Đơn hàng
+F037,Đơn hàng & Tài chính (ERP),Đơn hàng,Báo cáo đơn hàng
+F039,Đơn hàng & Tài chính (ERP),Thu tiền,Hoá đơn
+F041,Đơn hàng & Tài chính (ERP),Thu tiền,Thanh toán
+F044,Đơn hàng & Tài chính (ERP),Thu tiền,Giao dịch SePay
+F040,Đơn hàng & Tài chính (ERP),Thu tiền,Công nợ theo tuổi nợ
+F042,Đơn hàng & Tài chính (ERP),Thu tiền,Đối soát
+F046,Đơn hàng & Tài chính (ERP),Hợp đồng,Chữ ký điện tử
+F085,Đơn hàng & Tài chính (ERP),Kế toán,Tổng quan tài chính
+F086,Đơn hàng & Tài chính (ERP),Kế toán,Báo cáo lãi lỗ (P&L)
+F087,Đơn hàng & Tài chính (ERP),Kế toán,Bảng cân đối
+F088,Đơn hàng & Tài chính (ERP),Kế toán,Lưu chuyển tiền tệ
+F089,Đơn hàng & Tài chính (ERP),Kế toán,Hệ thống tài khoản kế toán
+F090,Đơn hàng & Tài chính (ERP),Kế toán,Bút toán
+F091,Đơn hàng & Tài chính (ERP),Kế toán,Ngân sách
+F092,Đơn hàng & Tài chính (ERP),Kế toán,Trung tâm chi phí
+F130,Nhân sự (HRM),Tổ chức,Nhân sự
+F131,Nhân sự (HRM),Tổ chức,Sơ đồ tổ chức
+F132,Nhân sự (HRM),Tổ chức,Phòng ban
+F133,Nhân sự (HRM),Tổ chức,Vị trí / chức danh
+F134,Nhân sự (HRM),Dự án nội bộ,Dự án nội bộ
+F135,Nhân sự (HRM),Dự án nội bộ,Gantt portfolio
+F136,Nhân sự (HRM),Dự án nội bộ,ROI dự án
+F110,Nhân sự (HRM),Quy trình,Checklists
+F073,Báo cáo & Mục tiêu,Báo cáo,Trang chủ báo cáo
+F074,Báo cáo & Mục tiêu,Báo cáo,Bảng điều khiển
+F094,Báo cáo & Mục tiêu,Báo cáo,Tổng quan hiệu suất
+F075,Báo cáo & Mục tiêu,Báo cáo,Báo cáo
+F076,Báo cáo & Mục tiêu,Báo cáo,Mẫu báo cáo
+F077,Báo cáo & Mục tiêu,Báo cáo,Lịch gửi báo cáo
+F078,Báo cáo & Mục tiêu,Báo cáo,Xuất dữ liệu
+F080,Báo cáo & Mục tiêu,Báo cáo,Mô phỏng what-if
+F079,Báo cáo & Mục tiêu,Mục tiêu & KPI,KPI Tree
+F082,Báo cáo & Mục tiêu,Mục tiêu & KPI,OKR
+F083,Báo cáo & Mục tiêu,Mục tiêu & KPI,Cây liên kết mục tiêu
+F084,Báo cáo & Mục tiêu,Mục tiêu & KPI,Check-ins
+F081,Báo cáo & Mục tiêu,Mục tiêu & KPI,Hiệu suất phòng ban & team
+F093,Báo cáo & Mục tiêu,Mục tiêu & KPI,Đánh giá độ trưởng thành
+F062,Tự động hoá,Luồng,Luồng tự động
+F063,Tự động hoá,Luồng,Mẫu luồng
+F064,Tự động hoá,Luồng,Lịch sử chạy luồng
+F106,Tự động hoá,Quy tắc,Quy tắc cảnh báo
+F139,Quản trị,Người dùng & bảo mật,Đội nhóm
+F141,Quản trị,Người dùng & bảo mật,Vai trò
+F142,Quản trị,Người dùng & bảo mật,Phân quyền
+F138,Quản trị,Người dùng & bảo mật,Bảo mật
+F143,Quản trị,Người dùng & bảo mật,Nhật ký kiểm toán
+F144,Quản trị,Người dùng & bảo mật,Quản trị toàn hệ thống
+F006,Quản trị,Cấu hình dữ liệu,Trường tuỳ chỉnh
+F007,Quản trị,Cấu hình dữ liệu,Thẻ
+F018,Quản trị,Cấu hình dữ liệu,Pipeline bán hàng
+F027,Quản trị,Cấu hình dữ liệu,Quy trình phê duyệt
+F052,Quản trị,Kênh gửi,Tài khoản email
+F055,Quản trị,Kênh gửi,Biến email
+F070,Quản trị,Kênh gửi,Tài khoản SMS
+F072,Quản trị,Kênh gửi,Zalo OA
+F068,Quản trị,Kênh gửi,Quy tắc hộp thư
+F045,Quản trị,Thanh toán,Cài đặt thanh toán
+F043,Quản trị,Thanh toán,Tài khoản SePay
+F100,Quản trị,Affiliate,Cài đặt affiliate
+F104,Quản trị,AI,Cấu hình AI
+F112,Quản trị,AI,Kết nối AI
+F103,Quản trị,AI,Mức dùng AI
+F108,Quản trị,AI,Kho kiến thức AI
+F116,Quản trị,Tích hợp,Google
+F117,Quản trị,Tích hợp,Google Analytics
+F118,Quản trị,Tích hợp,Google Sheets
+F119,Quản trị,Tích hợp,Đồng bộ Sheet
+F120,Quản trị,Tích hợp,WEDU sync
+F122,Quản trị,Tích hợp,Kênh kết nối
+F129,Quản trị,Tích hợp,Webhook
+F126,Quản trị,Tích hợp,Webhook đẩy ra
+F121,Quản trị,Tích hợp,Nhật ký đồng bộ
+F123,Quản trị,Tích hợp,Website & app theo dõi
+F111,Quản trị,Nhà phát triển,API & MCP
+F113,Quản trị,Nhà phát triển,MCP
+F114,Quản trị,Nhà phát triển,API docs
+F115,Quản trị,Nhà phát triển,CLI
+F101,Trợ lý AI,Trò chuyện,
+F102,Trợ lý AI,Lịch sử trò chuyện,
+F109,Trợ lý AI,Tìm tài liệu,
+F107,Thông báo,Thông báo,
+F105,Thông báo,Cảnh báo hệ thống,
+F140,Tài khoản,Hồ sơ,
+F137,Trợ giúp,,

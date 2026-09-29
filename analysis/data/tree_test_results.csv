@@ -1,0 +1,1 @@
+participant_id,role,experience_level,task_id,ia_variant,target_node,first_level_clicked,first_click_correct,direct_success,task_success,time_to_feature_sec,wrong_turns,backtracks,path,confidence_score,task_ease_score,notes

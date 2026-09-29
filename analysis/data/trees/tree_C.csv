@@ -1,0 +1,146 @@
+feature_id,level_1,level_2,level_3
+F000,Tổng quan,,
+F010,Của tôi,Việc cần làm của tôi,
+F023,Của tôi,Chỉ tiêu của tôi,
+F026,Của tôi,Hoa hồng của tôi,
+F140,Của tôi,Hồ sơ,
+F001,Bán hàng,Khách hàng,Tổng quan khách hàng
+F002,Bán hàng,Khách hàng,Liên hệ
+F008,Bán hàng,Khách hàng,Nhập liên hệ
+F003,Bán hàng,Khách hàng,Doanh nghiệp
+F004,Bán hàng,Khách hàng,Khách tiềm năng (Lead)
+F005,Bán hàng,Khách hàng,Bảng kanban khách hàng
+F012,Bán hàng,Khách hàng,Danh sách khách hàng
+F011,Bán hàng,Khách hàng,Sức khoẻ khách hàng
+F013,Bán hàng,Khách hàng,Cảnh báo khách hàng
+F009,Bán hàng,Khách hàng,Gộp dữ liệu trùng
+F014,Bán hàng,Thương vụ,Cơ hội bán
+F016,Bán hàng,Thương vụ,Bảng kanban thương vụ
+F017,Bán hàng,Thương vụ,Danh sách thương vụ
+F021,Bán hàng,Thương vụ,Thắng / Thua
+F029,Bán hàng,Thương vụ,Lý do thất bại
+F015,Bán hàng,Thương vụ,Báo cáo phễu bán hàng
+F038,Bán hàng,Báo giá & phê duyệt,Báo giá
+F028,Bán hàng,Báo giá & phê duyệt,Yêu cầu chờ duyệt
+F019,Bán hàng,Dự báo & chỉ tiêu,Dự báo doanh số
+F020,Bán hàng,Dự báo & chỉ tiêu,Mô phỏng doanh số (what-if)
+F022,Bán hàng,Dự báo & chỉ tiêu,Chỉ tiêu (hạn ngạch)
+F024,Bán hàng,Hoa hồng nhân viên,Kế hoạch hoa hồng
+F025,Bán hàng,Hoa hồng nhân viên,Chi trả hoa hồng nhân viên
+F030,Bán hàng,Sản phẩm & đơn hàng,Sản phẩm
+F031,Bán hàng,Sản phẩm & đơn hàng,Danh mục sản phẩm
+F032,Bán hàng,Sản phẩm & đơn hàng,Bảng giá
+F033,Bán hàng,Sản phẩm & đơn hàng,Chiết khấu
+F035,Bán hàng,Sản phẩm & đơn hàng,Combo
+F034,Bán hàng,Sản phẩm & đơn hàng,Tồn kho
+F036,Bán hàng,Sản phẩm & đơn hàng,Đơn hàng
+F037,Bán hàng,Sản phẩm & đơn hàng,Báo cáo đơn hàng
+F047,Marketing,Email,Tổng quan email
+F053,Marketing,Email,Chiến dịch email
+F051,Marketing,Email,Chuỗi email
+F054,Marketing,Email,Mẫu email
+F048,Marketing,Email,Người đăng ký
+F049,Marketing,Email,Danh sách email
+F056,Marketing,Email,Phân khúc
+F057,Marketing,Email,Biểu mẫu
+F050,Marketing,Email,Báo cáo email
+F058,Marketing,Landing & phễu marketing,Sơ đồ phễu marketing
+F059,Marketing,Landing & phễu marketing,Trang đích
+F060,Marketing,Landing & phễu marketing,Mã QR
+F061,Marketing,Landing & phễu marketing,Link UTM
+F065,Marketing,Khách tiềm năng,Chấm điểm lead
+F066,Marketing,Khách tiềm năng,Phân công lead
+F127,Marketing,Khách tiềm năng,Nguồn lead
+F124,Marketing,Khách tiềm năng,Hành trình khách hàng
+F125,Marketing,Khách tiềm năng,Nguồn & hành trình
+F128,Marketing,Khách tiềm năng,Quy tắc ghi nhận chuyển đổi
+F095,Marketing,Affiliate,Tổng quan affiliate
+F096,Marketing,Affiliate,Đại lý
+F097,Marketing,Affiliate,Link giới thiệu
+F098,Marketing,Affiliate,Chuyển đổi affiliate
+F099,Marketing,Affiliate,Chi trả hoa hồng đại lý
+F067,Marketing,Hội thoại,Hộp thư
+F069,Marketing,Hội thoại,SMS
+F071,Marketing,Hội thoại,Zalo ZNS
+F039,Tài chính,Thu tiền,Hoá đơn
+F041,Tài chính,Thu tiền,Thanh toán
+F044,Tài chính,Thu tiền,Giao dịch SePay
+F040,Tài chính,Thu tiền,Công nợ theo tuổi nợ
+F042,Tài chính,Thu tiền,Đối soát
+F046,Tài chính,Hợp đồng,Chữ ký điện tử
+F085,Tài chính,Kế toán,Tổng quan tài chính
+F086,Tài chính,Kế toán,Báo cáo lãi lỗ (P&L)
+F087,Tài chính,Kế toán,Bảng cân đối
+F088,Tài chính,Kế toán,Lưu chuyển tiền tệ
+F089,Tài chính,Kế toán,Hệ thống tài khoản kế toán
+F090,Tài chính,Kế toán,Bút toán
+F091,Tài chính,Kế toán,Ngân sách
+F092,Tài chính,Kế toán,Trung tâm chi phí
+F073,Vận hành,Báo cáo,Trang chủ báo cáo
+F074,Vận hành,Báo cáo,Bảng điều khiển
+F094,Vận hành,Báo cáo,Tổng quan hiệu suất
+F075,Vận hành,Báo cáo,Báo cáo
+F076,Vận hành,Báo cáo,Mẫu báo cáo
+F077,Vận hành,Báo cáo,Lịch gửi báo cáo
+F078,Vận hành,Báo cáo,Xuất dữ liệu
+F080,Vận hành,Báo cáo,Mô phỏng what-if
+F079,Vận hành,Mục tiêu & KPI,KPI Tree
+F082,Vận hành,Mục tiêu & KPI,OKR
+F083,Vận hành,Mục tiêu & KPI,Cây liên kết mục tiêu
+F084,Vận hành,Mục tiêu & KPI,Check-ins
+F081,Vận hành,Mục tiêu & KPI,Hiệu suất phòng ban & team
+F093,Vận hành,Mục tiêu & KPI,Đánh giá độ trưởng thành
+F062,Vận hành,Tự động hoá,Luồng tự động
+F063,Vận hành,Tự động hoá,Mẫu luồng
+F064,Vận hành,Tự động hoá,Lịch sử chạy luồng
+F101,Vận hành,Trợ lý AI,Trợ lý AI
+F102,Vận hành,Trợ lý AI,Lịch sử trò chuyện
+F108,Vận hành,Trợ lý AI,Kho kiến thức
+F109,Vận hành,Trợ lý AI,Tìm tài liệu
+F110,Vận hành,Trợ lý AI,Checklists
+F105,Vận hành,Cảnh báo & thông báo,Cảnh báo hệ thống
+F107,Vận hành,Cảnh báo & thông báo,Thông báo
+F130,Vận hành,Tổ chức,Nhân sự
+F131,Vận hành,Tổ chức,Sơ đồ tổ chức
+F132,Vận hành,Tổ chức,Phòng ban
+F133,Vận hành,Tổ chức,Vị trí / chức danh
+F134,Vận hành,Tổ chức,Dự án nội bộ
+F135,Vận hành,Tổ chức,Gantt portfolio
+F136,Vận hành,Tổ chức,ROI dự án
+F139,Cài đặt,Người dùng & bảo mật,Đội nhóm
+F141,Cài đặt,Người dùng & bảo mật,Vai trò
+F142,Cài đặt,Người dùng & bảo mật,Phân quyền
+F138,Cài đặt,Người dùng & bảo mật,Bảo mật
+F143,Cài đặt,Người dùng & bảo mật,Nhật ký kiểm toán
+F144,Cài đặt,Người dùng & bảo mật,Quản trị toàn hệ thống
+F006,Cài đặt,Cấu hình dữ liệu,Trường tuỳ chỉnh
+F007,Cài đặt,Cấu hình dữ liệu,Thẻ
+F018,Cài đặt,Cấu hình dữ liệu,Pipeline bán hàng
+F027,Cài đặt,Cấu hình dữ liệu,Quy trình phê duyệt
+F052,Cài đặt,Kênh gửi,Tài khoản email
+F055,Cài đặt,Kênh gửi,Biến email
+F070,Cài đặt,Kênh gửi,Tài khoản SMS
+F072,Cài đặt,Kênh gửi,Zalo OA
+F068,Cài đặt,Kênh gửi,Quy tắc hộp thư
+F045,Cài đặt,Thanh toán,Cài đặt thanh toán
+F043,Cài đặt,Thanh toán,Tài khoản SePay
+F100,Cài đặt,Affiliate,Cài đặt affiliate
+F104,Cài đặt,AI,Cấu hình AI
+F112,Cài đặt,AI,Kết nối AI
+F103,Cài đặt,AI,Mức dùng AI
+F106,Cài đặt,AI,Quy tắc cảnh báo
+F116,Cài đặt,Tích hợp,Google
+F117,Cài đặt,Tích hợp,Google Analytics
+F118,Cài đặt,Tích hợp,Google Sheets
+F119,Cài đặt,Tích hợp,Đồng bộ Sheet
+F120,Cài đặt,Tích hợp,WEDU sync
+F122,Cài đặt,Tích hợp,Kênh kết nối
+F129,Cài đặt,Tích hợp,Webhook
+F126,Cài đặt,Tích hợp,Webhook đẩy ra
+F121,Cài đặt,Tích hợp,Nhật ký đồng bộ
+F123,Cài đặt,Tích hợp,Website & app theo dõi
+F111,Cài đặt,Nhà phát triển,API & MCP
+F113,Cài đặt,Nhà phát triển,MCP
+F114,Cài đặt,Nhà phát triển,API docs
+F115,Cài đặt,Nhà phát triển,CLI
+F137,Trợ giúp,,

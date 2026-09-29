@@ -1,0 +1,146 @@
+feature_id,feature_name,A_path,B_path,C_path,D_path
+F000,Tổng quan,Tổng quan,Tổng quan,Tổng quan,Trang chủ > Tổng quan
+F001,Tổng khách hàng,CRM Core > Tổng khách hàng,Khách hàng > Tổng quan khách hàng,Bán hàng > Khách hàng > Tổng quan khách hàng,Bán hàng (CRM) > Khách hàng > Tổng quan khách hàng
+F002,Liên hệ,CRM Core > Liên hệ,Khách hàng > Liên hệ,Bán hàng > Khách hàng > Liên hệ,Bán hàng (CRM) > Khách hàng > Liên hệ
+F003,Doanh nghiệp,CRM Core > Doanh nghiệp,Khách hàng > Doanh nghiệp,Bán hàng > Khách hàng > Doanh nghiệp,Bán hàng (CRM) > Khách hàng > Doanh nghiệp
+F004,Lead,CRM Core > Lead,Khách hàng > Khách tiềm năng (Lead),Bán hàng > Khách hàng > Khách tiềm năng (Lead),Bán hàng (CRM) > Khách hàng > Khách tiềm năng (Lead)
+F005,Bảng kanban,CRM Core > Bảng kanban,Khách hàng > Bảng kanban khách hàng,Bán hàng > Khách hàng > Bảng kanban khách hàng,Bán hàng (CRM) > Khách hàng > Bảng kanban khách hàng
+F006,Trường tuỳ chỉnh,CRM Core > Trường tuỳ chỉnh,Cài đặt > Cấu hình dữ liệu > Trường tuỳ chỉnh,Cài đặt > Cấu hình dữ liệu > Trường tuỳ chỉnh,Quản trị > Cấu hình dữ liệu > Trường tuỳ chỉnh
+F007,Thẻ,CRM Core > Thẻ,Cài đặt > Cấu hình dữ liệu > Thẻ,Cài đặt > Cấu hình dữ liệu > Thẻ,Quản trị > Cấu hình dữ liệu > Thẻ
+F008,Nhập liên hệ,CRM Core > Nhập liên hệ,Khách hàng > Nhập liên hệ,Bán hàng > Khách hàng > Nhập liên hệ,Bán hàng (CRM) > Khách hàng > Nhập liên hệ
+F009,Trùng lặp,CRM Core > Trùng lặp,Khách hàng > Gộp dữ liệu trùng,Bán hàng > Khách hàng > Gộp dữ liệu trùng,Bán hàng (CRM) > Khách hàng > Gộp dữ liệu trùng
+F010,Công việc của tôi,CRM Core > Công việc của tôi,Khách hàng > Việc cần làm của tôi,Của tôi > Việc cần làm của tôi,Trang chủ > Của tôi > Việc cần làm của tôi
+F011,Sức khoẻ khách hàng,CRM Core > Sức khoẻ khách hàng,Khách hàng > Sức khoẻ khách hàng,Bán hàng > Khách hàng > Sức khoẻ khách hàng,Bán hàng (CRM) > Khách hàng > Sức khoẻ khách hàng
+F012,Danh sách,CRM Core > Danh sách,Khách hàng > Danh sách khách hàng,Bán hàng > Khách hàng > Danh sách khách hàng,Bán hàng (CRM) > Khách hàng > Danh sách khách hàng
+F013,Cảnh báo,CRM Core > Cảnh báo,Khách hàng > Cảnh báo khách hàng,Bán hàng > Khách hàng > Cảnh báo khách hàng,Bán hàng (CRM) > Khách hàng > Cảnh báo khách hàng
+F014,Cơ hội bán,Phễu bán hàng > Cơ hội bán,Bán hàng > Thương vụ > Cơ hội bán,Bán hàng > Thương vụ > Cơ hội bán,Bán hàng (CRM) > Thương vụ > Cơ hội bán
+F015,Báo cáo phễu,Phễu bán hàng > Báo cáo phễu,Bán hàng > Thương vụ > Báo cáo phễu bán hàng,Bán hàng > Thương vụ > Báo cáo phễu bán hàng,Bán hàng (CRM) > Thương vụ > Báo cáo phễu bán hàng
+F016,Bảng kanban,Phễu bán hàng > Bảng kanban,Bán hàng > Thương vụ > Bảng kanban thương vụ,Bán hàng > Thương vụ > Bảng kanban thương vụ,Bán hàng (CRM) > Thương vụ > Bảng kanban thương vụ
+F017,Danh sách,Phễu bán hàng > Danh sách,Bán hàng > Thương vụ > Danh sách thương vụ,Bán hàng > Thương vụ > Danh sách thương vụ,Bán hàng (CRM) > Thương vụ > Danh sách thương vụ
+F018,Pipelines,Phễu bán hàng > Pipelines,Cài đặt > Cấu hình dữ liệu > Pipeline bán hàng,Cài đặt > Cấu hình dữ liệu > Pipeline bán hàng,Quản trị > Cấu hình dữ liệu > Pipeline bán hàng
+F019,Dự báo,Phễu bán hàng > Dự báo,Bán hàng > Dự báo & chỉ tiêu > Dự báo doanh số,Bán hàng > Dự báo & chỉ tiêu > Dự báo doanh số,Bán hàng (CRM) > Dự báo & chỉ tiêu > Dự báo doanh số
+F020,Mô phỏng what-if,Phễu bán hàng > Mô phỏng what-if,Bán hàng > Dự báo & chỉ tiêu > Mô phỏng doanh số (what-if),Bán hàng > Dự báo & chỉ tiêu > Mô phỏng doanh số (what-if),Bán hàng (CRM) > Dự báo & chỉ tiêu > Mô phỏng doanh số (what-if)
+F021,Thắng / Thua,Phễu bán hàng > Thắng / Thua,Bán hàng > Thương vụ > Thắng / Thua,Bán hàng > Thương vụ > Thắng / Thua,Bán hàng (CRM) > Thương vụ > Thắng / Thua
+F022,Hạn ngạch,Phễu bán hàng > Hạn ngạch,Bán hàng > Dự báo & chỉ tiêu > Chỉ tiêu (hạn ngạch),Bán hàng > Dự báo & chỉ tiêu > Chỉ tiêu (hạn ngạch),Bán hàng (CRM) > Dự báo & chỉ tiêu > Chỉ tiêu (hạn ngạch)
+F023,Hạn ngạch của tôi,Phễu bán hàng > Hạn ngạch của tôi,Bán hàng > Dự báo & chỉ tiêu > Chỉ tiêu của tôi,Của tôi > Chỉ tiêu của tôi,Trang chủ > Của tôi > Chỉ tiêu của tôi
+F024,Kế hoạch hoa hồng,Phễu bán hàng > Kế hoạch hoa hồng,Bán hàng > Hoa hồng nhân viên > Kế hoạch hoa hồng,Bán hàng > Hoa hồng nhân viên > Kế hoạch hoa hồng,Bán hàng (CRM) > Hoa hồng nhân viên > Kế hoạch hoa hồng
+F025,Chi trả,Phễu bán hàng > Chi trả,Bán hàng > Hoa hồng nhân viên > Chi trả hoa hồng nhân viên,Bán hàng > Hoa hồng nhân viên > Chi trả hoa hồng nhân viên,Bán hàng (CRM) > Hoa hồng nhân viên > Chi trả hoa hồng nhân viên
+F026,Hoa hồng của tôi,Phễu bán hàng > Hoa hồng của tôi,Bán hàng > Hoa hồng nhân viên > Hoa hồng của tôi,Của tôi > Hoa hồng của tôi,Trang chủ > Của tôi > Hoa hồng của tôi
+F027,Quy trình phê duyệt,Phễu bán hàng > Quy trình phê duyệt,Cài đặt > Cấu hình dữ liệu > Quy trình phê duyệt,Cài đặt > Cấu hình dữ liệu > Quy trình phê duyệt,Quản trị > Cấu hình dữ liệu > Quy trình phê duyệt
+F028,Phê duyệt,Phễu bán hàng > Phê duyệt,Bán hàng > Báo giá & phê duyệt > Yêu cầu chờ duyệt,Bán hàng > Báo giá & phê duyệt > Yêu cầu chờ duyệt,Bán hàng (CRM) > Báo giá & phê duyệt > Yêu cầu chờ duyệt
+F029,Lý do thất bại,Phễu bán hàng > Lý do thất bại,Bán hàng > Thương vụ > Lý do thất bại,Bán hàng > Thương vụ > Lý do thất bại,Bán hàng (CRM) > Thương vụ > Lý do thất bại
+F030,Sản phẩm,Sản phẩm & Đơn hàng > Sản phẩm,Sản phẩm & Đơn hàng > Sản phẩm,Bán hàng > Sản phẩm & đơn hàng > Sản phẩm,Đơn hàng & Tài chính (ERP) > Sản phẩm & kho > Sản phẩm
+F031,Danh mục,Sản phẩm & Đơn hàng > Danh mục,Sản phẩm & Đơn hàng > Danh mục sản phẩm,Bán hàng > Sản phẩm & đơn hàng > Danh mục sản phẩm,Đơn hàng & Tài chính (ERP) > Sản phẩm & kho > Danh mục sản phẩm
+F032,Bảng giá,Sản phẩm & Đơn hàng > Bảng giá,Sản phẩm & Đơn hàng > Bảng giá,Bán hàng > Sản phẩm & đơn hàng > Bảng giá,Đơn hàng & Tài chính (ERP) > Sản phẩm & kho > Bảng giá
+F033,Chiết khấu,Sản phẩm & Đơn hàng > Chiết khấu,Sản phẩm & Đơn hàng > Chiết khấu,Bán hàng > Sản phẩm & đơn hàng > Chiết khấu,Đơn hàng & Tài chính (ERP) > Sản phẩm & kho > Chiết khấu
+F034,Tồn kho,Sản phẩm & Đơn hàng > Tồn kho,Sản phẩm & Đơn hàng > Tồn kho,Bán hàng > Sản phẩm & đơn hàng > Tồn kho,Đơn hàng & Tài chính (ERP) > Sản phẩm & kho > Tồn kho
+F035,Combo,Sản phẩm & Đơn hàng > Combo,Sản phẩm & Đơn hàng > Combo,Bán hàng > Sản phẩm & đơn hàng > Combo,Đơn hàng & Tài chính (ERP) > Sản phẩm & kho > Combo
+F036,Đơn hàng,Sản phẩm & Đơn hàng > Đơn hàng,Sản phẩm & Đơn hàng > Đơn hàng,Bán hàng > Sản phẩm & đơn hàng > Đơn hàng,Đơn hàng & Tài chính (ERP) > Đơn hàng > Đơn hàng
+F037,Báo cáo đơn hàng,Sản phẩm & Đơn hàng > Báo cáo đơn hàng,Sản phẩm & Đơn hàng > Báo cáo đơn hàng,Bán hàng > Sản phẩm & đơn hàng > Báo cáo đơn hàng,Đơn hàng & Tài chính (ERP) > Đơn hàng > Báo cáo đơn hàng
+F038,Báo giá,Thanh toán & Hợp đồng > Báo giá,Bán hàng > Báo giá & phê duyệt > Báo giá,Bán hàng > Báo giá & phê duyệt > Báo giá,Bán hàng (CRM) > Báo giá & phê duyệt > Báo giá
+F039,Hoá đơn,Thanh toán & Hợp đồng > Hoá đơn,Tài chính > Thu tiền > Hoá đơn,Tài chính > Thu tiền > Hoá đơn,Đơn hàng & Tài chính (ERP) > Thu tiền > Hoá đơn
+F040,Tuổi nợ,Thanh toán & Hợp đồng > Tuổi nợ,Tài chính > Thu tiền > Công nợ theo tuổi nợ,Tài chính > Thu tiền > Công nợ theo tuổi nợ,Đơn hàng & Tài chính (ERP) > Thu tiền > Công nợ theo tuổi nợ
+F041,Thanh toán,Thanh toán & Hợp đồng > Thanh toán,Tài chính > Thu tiền > Thanh toán,Tài chính > Thu tiền > Thanh toán,Đơn hàng & Tài chính (ERP) > Thu tiền > Thanh toán
+F042,Đối soát,Thanh toán & Hợp đồng > Đối soát,Tài chính > Thu tiền > Đối soát,Tài chính > Thu tiền > Đối soát,Đơn hàng & Tài chính (ERP) > Thu tiền > Đối soát
+F043,Tài khoản SePay,Thanh toán & Hợp đồng > Tài khoản SePay,Cài đặt > Thanh toán > Tài khoản SePay,Cài đặt > Thanh toán > Tài khoản SePay,Quản trị > Thanh toán > Tài khoản SePay
+F044,Giao dịch SePay,Thanh toán & Hợp đồng > Giao dịch SePay,Tài chính > Thu tiền > Giao dịch SePay,Tài chính > Thu tiền > Giao dịch SePay,Đơn hàng & Tài chính (ERP) > Thu tiền > Giao dịch SePay
+F045,Cài đặt thanh toán,Thanh toán & Hợp đồng > Cài đặt thanh toán,Cài đặt > Thanh toán > Cài đặt thanh toán,Cài đặt > Thanh toán > Cài đặt thanh toán,Quản trị > Thanh toán > Cài đặt thanh toán
+F046,Chữ ký điện tử,Thanh toán & Hợp đồng > Chữ ký điện tử,Tài chính > Hợp đồng > Chữ ký điện tử,Tài chính > Hợp đồng > Chữ ký điện tử,Đơn hàng & Tài chính (ERP) > Hợp đồng > Chữ ký điện tử
+F047,Email Marketing,Email Marketing > Email Marketing,Marketing > Email > Tổng quan email,Marketing > Email > Tổng quan email,Marketing > Email > Tổng quan email
+F048,Người đăng ký,Email Marketing > Người đăng ký,Marketing > Email > Người đăng ký,Marketing > Email > Người đăng ký,Marketing > Email > Người đăng ký
+F049,Lists,Email Marketing > Lists,Marketing > Email > Danh sách email,Marketing > Email > Danh sách email,Marketing > Email > Danh sách email
+F050,Analytics,Email Marketing > Analytics,Marketing > Email > Báo cáo email,Marketing > Email > Báo cáo email,Marketing > Email > Báo cáo email
+F051,Chuỗi email,Email Marketing > Chuỗi email,Marketing > Email > Chuỗi email,Marketing > Email > Chuỗi email,Marketing > Email > Chuỗi email
+F052,Tài khoản email,Email Marketing > Tài khoản email,Cài đặt > Kênh gửi > Tài khoản email,Cài đặt > Kênh gửi > Tài khoản email,Quản trị > Kênh gửi > Tài khoản email
+F053,Chiến dịch,Email Marketing > Chiến dịch,Marketing > Email > Chiến dịch email,Marketing > Email > Chiến dịch email,Marketing > Email > Chiến dịch email
+F054,Mẫu email,Email Marketing > Mẫu email,Marketing > Email > Mẫu email,Marketing > Email > Mẫu email,Marketing > Email > Mẫu email
+F055,Biến mail,Email Marketing > Biến mail,Cài đặt > Kênh gửi > Biến email,Cài đặt > Kênh gửi > Biến email,Quản trị > Kênh gửi > Biến email
+F056,Phân khúc,Email Marketing > Phân khúc,Marketing > Email > Phân khúc,Marketing > Email > Phân khúc,Marketing > Email > Phân khúc
+F057,Biểu mẫu,Email Marketing > Biểu mẫu,Marketing > Email > Biểu mẫu,Marketing > Email > Biểu mẫu,Marketing > Email > Biểu mẫu
+F058,Sơ đồ phễu,Landing & Phễu > Sơ đồ phễu,Marketing > Landing & phễu marketing > Sơ đồ phễu marketing,Marketing > Landing & phễu marketing > Sơ đồ phễu marketing,Marketing > Landing & phễu marketing > Sơ đồ phễu marketing
+F059,Trang đích,Landing & Phễu > Trang đích,Marketing > Landing & phễu marketing > Trang đích,Marketing > Landing & phễu marketing > Trang đích,Marketing > Landing & phễu marketing > Trang đích
+F060,Tạo QR,Landing & Phễu > Tạo QR,Marketing > Landing & phễu marketing > Mã QR,Marketing > Landing & phễu marketing > Mã QR,Marketing > Landing & phễu marketing > Mã QR
+F061,Gắn UTM,Landing & Phễu > Gắn UTM,Marketing > Landing & phễu marketing > Link UTM,Marketing > Landing & phễu marketing > Link UTM,Marketing > Landing & phễu marketing > Link UTM
+F062,Luồng tự động,Landing & Phễu > Luồng tự động,Tự động hoá & AI > Tự động hoá > Luồng tự động,Vận hành > Tự động hoá > Luồng tự động,Tự động hoá > Luồng > Luồng tự động
+F063,Mẫu luồng,Landing & Phễu > Mẫu luồng,Tự động hoá & AI > Tự động hoá > Mẫu luồng,Vận hành > Tự động hoá > Mẫu luồng,Tự động hoá > Luồng > Mẫu luồng
+F064,Lịch sử chạy,Landing & Phễu > Lịch sử chạy,Tự động hoá & AI > Tự động hoá > Lịch sử chạy luồng,Vận hành > Tự động hoá > Lịch sử chạy luồng,Tự động hoá > Luồng > Lịch sử chạy luồng
+F065,Chấm điểm lead,Landing & Phễu > Chấm điểm lead,Marketing > Khách tiềm năng > Chấm điểm lead,Marketing > Khách tiềm năng > Chấm điểm lead,Marketing > Khách tiềm năng > Chấm điểm lead
+F066,Phân công lead,Landing & Phễu > Phân công lead,Marketing > Khách tiềm năng > Phân công lead,Marketing > Khách tiềm năng > Phân công lead,Marketing > Khách tiềm năng > Phân công lead
+F067,Hộp thư,Truyền thông > Hộp thư,Hội thoại > Hộp thư,Marketing > Hội thoại > Hộp thư,Bán hàng (CRM) > Hội thoại > Hộp thư
+F068,Quy tắc hộp thư,Truyền thông > Quy tắc hộp thư,Cài đặt > Kênh gửi > Quy tắc hộp thư,Cài đặt > Kênh gửi > Quy tắc hộp thư,Quản trị > Kênh gửi > Quy tắc hộp thư
+F069,SMS,Truyền thông > SMS,Hội thoại > SMS,Marketing > Hội thoại > SMS,Bán hàng (CRM) > Hội thoại > SMS
+F070,SMS Accounts,Truyền thông > SMS Accounts,Cài đặt > Kênh gửi > Tài khoản SMS,Cài đặt > Kênh gửi > Tài khoản SMS,Quản trị > Kênh gửi > Tài khoản SMS
+F071,Zalo ZNS,Truyền thông > Zalo ZNS,Hội thoại > Zalo ZNS,Marketing > Hội thoại > Zalo ZNS,Bán hàng (CRM) > Hội thoại > Zalo ZNS
+F072,Zalo OA,Truyền thông > Zalo OA,Cài đặt > Kênh gửi > Zalo OA,Cài đặt > Kênh gửi > Zalo OA,Quản trị > Kênh gửi > Zalo OA
+F073,Trang chủ,Báo cáo & Hiệu suất > Trang chủ,Báo cáo & Mục tiêu > Báo cáo > Trang chủ báo cáo,Vận hành > Báo cáo > Trang chủ báo cáo,Báo cáo & Mục tiêu > Báo cáo > Trang chủ báo cáo
+F074,Bảng điều khiển,Báo cáo & Hiệu suất > Bảng điều khiển,Báo cáo & Mục tiêu > Báo cáo > Bảng điều khiển,Vận hành > Báo cáo > Bảng điều khiển,Báo cáo & Mục tiêu > Báo cáo > Bảng điều khiển
+F075,Báo cáo,Báo cáo & Hiệu suất > Báo cáo,Báo cáo & Mục tiêu > Báo cáo > Báo cáo,Vận hành > Báo cáo > Báo cáo,Báo cáo & Mục tiêu > Báo cáo > Báo cáo
+F076,Mẫu báo cáo,Báo cáo & Hiệu suất > Mẫu báo cáo,Báo cáo & Mục tiêu > Báo cáo > Mẫu báo cáo,Vận hành > Báo cáo > Mẫu báo cáo,Báo cáo & Mục tiêu > Báo cáo > Mẫu báo cáo
+F077,Lịch gửi báo cáo,Báo cáo & Hiệu suất > Lịch gửi báo cáo,Báo cáo & Mục tiêu > Báo cáo > Lịch gửi báo cáo,Vận hành > Báo cáo > Lịch gửi báo cáo,Báo cáo & Mục tiêu > Báo cáo > Lịch gửi báo cáo
+F078,Xuất dữ liệu,Báo cáo & Hiệu suất > Xuất dữ liệu,Báo cáo & Mục tiêu > Báo cáo > Xuất dữ liệu,Vận hành > Báo cáo > Xuất dữ liệu,Báo cáo & Mục tiêu > Báo cáo > Xuất dữ liệu
+F079,KPI Tree,Báo cáo & Hiệu suất > KPI Tree,Báo cáo & Mục tiêu > Mục tiêu & KPI > KPI Tree,Vận hành > Mục tiêu & KPI > KPI Tree,Báo cáo & Mục tiêu > Mục tiêu & KPI > KPI Tree
+F080,Mô phỏng what-if,Báo cáo & Hiệu suất > Mô phỏng what-if,Báo cáo & Mục tiêu > Báo cáo > Mô phỏng what-if,Vận hành > Báo cáo > Mô phỏng what-if,Báo cáo & Mục tiêu > Báo cáo > Mô phỏng what-if
+F081,Phòng ban & Team,Báo cáo & Hiệu suất > Phòng ban & Team,Báo cáo & Mục tiêu > Mục tiêu & KPI > Hiệu suất phòng ban & team,Vận hành > Mục tiêu & KPI > Hiệu suất phòng ban & team,Báo cáo & Mục tiêu > Mục tiêu & KPI > Hiệu suất phòng ban & team
+F082,OKR,Báo cáo & Hiệu suất > OKR,Báo cáo & Mục tiêu > Mục tiêu & KPI > OKR,Vận hành > Mục tiêu & KPI > OKR,Báo cáo & Mục tiêu > Mục tiêu & KPI > OKR
+F083,Cây liên kết,Báo cáo & Hiệu suất > Cây liên kết,Báo cáo & Mục tiêu > Mục tiêu & KPI > Cây liên kết mục tiêu,Vận hành > Mục tiêu & KPI > Cây liên kết mục tiêu,Báo cáo & Mục tiêu > Mục tiêu & KPI > Cây liên kết mục tiêu
+F084,Check-ins,Báo cáo & Hiệu suất > Check-ins,Báo cáo & Mục tiêu > Mục tiêu & KPI > Check-ins,Vận hành > Mục tiêu & KPI > Check-ins,Báo cáo & Mục tiêu > Mục tiêu & KPI > Check-ins
+F085,Tài chính,Báo cáo & Hiệu suất > Tài chính,Tài chính > Kế toán > Tổng quan tài chính,Tài chính > Kế toán > Tổng quan tài chính,Đơn hàng & Tài chính (ERP) > Kế toán > Tổng quan tài chính
+F086,Báo cáo P&L,Báo cáo & Hiệu suất > Báo cáo P&L,Tài chính > Kế toán > Báo cáo lãi lỗ (P&L),Tài chính > Kế toán > Báo cáo lãi lỗ (P&L),Đơn hàng & Tài chính (ERP) > Kế toán > Báo cáo lãi lỗ (P&L)
+F087,Bảng cân đối,Báo cáo & Hiệu suất > Bảng cân đối,Tài chính > Kế toán > Bảng cân đối,Tài chính > Kế toán > Bảng cân đối,Đơn hàng & Tài chính (ERP) > Kế toán > Bảng cân đối
+F088,Lưu chuyển tiền tệ,Báo cáo & Hiệu suất > Lưu chuyển tiền tệ,Tài chính > Kế toán > Lưu chuyển tiền tệ,Tài chính > Kế toán > Lưu chuyển tiền tệ,Đơn hàng & Tài chính (ERP) > Kế toán > Lưu chuyển tiền tệ
+F089,Hệ thống tài khoản,Báo cáo & Hiệu suất > Hệ thống tài khoản,Tài chính > Kế toán > Hệ thống tài khoản kế toán,Tài chính > Kế toán > Hệ thống tài khoản kế toán,Đơn hàng & Tài chính (ERP) > Kế toán > Hệ thống tài khoản kế toán
+F090,Bút toán,Báo cáo & Hiệu suất > Bút toán,Tài chính > Kế toán > Bút toán,Tài chính > Kế toán > Bút toán,Đơn hàng & Tài chính (ERP) > Kế toán > Bút toán
+F091,Ngân sách,Báo cáo & Hiệu suất > Ngân sách,Tài chính > Kế toán > Ngân sách,Tài chính > Kế toán > Ngân sách,Đơn hàng & Tài chính (ERP) > Kế toán > Ngân sách
+F092,Trung tâm chi phí,Báo cáo & Hiệu suất > Trung tâm chi phí,Tài chính > Kế toán > Trung tâm chi phí,Tài chính > Kế toán > Trung tâm chi phí,Đơn hàng & Tài chính (ERP) > Kế toán > Trung tâm chi phí
+F093,Độ trưởng thành,Báo cáo & Hiệu suất > Độ trưởng thành,Báo cáo & Mục tiêu > Mục tiêu & KPI > Đánh giá độ trưởng thành,Vận hành > Mục tiêu & KPI > Đánh giá độ trưởng thành,Báo cáo & Mục tiêu > Mục tiêu & KPI > Đánh giá độ trưởng thành
+F094,Tổng quan,Báo cáo & Hiệu suất > Tổng quan,Báo cáo & Mục tiêu > Báo cáo > Tổng quan hiệu suất,Vận hành > Báo cáo > Tổng quan hiệu suất,Báo cáo & Mục tiêu > Báo cáo > Tổng quan hiệu suất
+F095,Affiliate Dashboard,Affiliate > Affiliate Dashboard,Marketing > Affiliate > Tổng quan affiliate,Marketing > Affiliate > Tổng quan affiliate,Marketing > Affiliate > Tổng quan affiliate
+F096,Đại lý,Affiliate > Đại lý,Marketing > Affiliate > Đại lý,Marketing > Affiliate > Đại lý,Marketing > Affiliate > Đại lý
+F097,Link giới thiệu,Affiliate > Link giới thiệu,Marketing > Affiliate > Link giới thiệu,Marketing > Affiliate > Link giới thiệu,Marketing > Affiliate > Link giới thiệu
+F098,Chuyển đổi,Affiliate > Chuyển đổi,Marketing > Affiliate > Chuyển đổi affiliate,Marketing > Affiliate > Chuyển đổi affiliate,Marketing > Affiliate > Chuyển đổi affiliate
+F099,Chi trả hoa hồng,Affiliate > Chi trả hoa hồng,Marketing > Affiliate > Chi trả hoa hồng đại lý,Marketing > Affiliate > Chi trả hoa hồng đại lý,Marketing > Affiliate > Chi trả hoa hồng đại lý
+F100,Cài đặt,Affiliate > Cài đặt,Cài đặt > Affiliate > Cài đặt affiliate,Cài đặt > Affiliate > Cài đặt affiliate,Quản trị > Affiliate > Cài đặt affiliate
+F101,Trợ lý AI,AI & Tự động hoá > Trợ lý AI,Tự động hoá & AI > Trợ lý AI > Trợ lý AI,Vận hành > Trợ lý AI > Trợ lý AI,Trợ lý AI > Trò chuyện
+F102,Lịch sử trò chuyện,AI & Tự động hoá > Lịch sử trò chuyện,Tự động hoá & AI > Trợ lý AI > Lịch sử trò chuyện,Vận hành > Trợ lý AI > Lịch sử trò chuyện,Trợ lý AI > Lịch sử trò chuyện
+F103,Mức dùng AI,AI & Tự động hoá > Mức dùng AI,Cài đặt > AI > Mức dùng AI,Cài đặt > AI > Mức dùng AI,Quản trị > AI > Mức dùng AI
+F104,Cấu hình AI,AI & Tự động hoá > Cấu hình AI,Cài đặt > AI > Cấu hình AI,Cài đặt > AI > Cấu hình AI,Quản trị > AI > Cấu hình AI
+F105,Cảnh báo,AI & Tự động hoá > Cảnh báo,Tự động hoá & AI > Cảnh báo & thông báo > Cảnh báo hệ thống,Vận hành > Cảnh báo & thông báo > Cảnh báo hệ thống,Thông báo > Cảnh báo hệ thống
+F106,Quy tắc cảnh báo,AI & Tự động hoá > Quy tắc cảnh báo,Cài đặt > AI > Quy tắc cảnh báo,Cài đặt > AI > Quy tắc cảnh báo,Tự động hoá > Quy tắc > Quy tắc cảnh báo
+F107,Thông báo,AI & Tự động hoá > Thông báo,Tự động hoá & AI > Cảnh báo & thông báo > Thông báo,Vận hành > Cảnh báo & thông báo > Thông báo,Thông báo > Thông báo
+F108,Knowledge,AI & Tự động hoá > Knowledge,Tự động hoá & AI > Trợ lý AI > Kho kiến thức,Vận hành > Trợ lý AI > Kho kiến thức,Quản trị > AI > Kho kiến thức AI
+F109,Tìm tài liệu,AI & Tự động hoá > Tìm tài liệu,Tự động hoá & AI > Trợ lý AI > Tìm tài liệu,Vận hành > Trợ lý AI > Tìm tài liệu,Trợ lý AI > Tìm tài liệu
+F110,Checklists,AI & Tự động hoá > Checklists,Tự động hoá & AI > Trợ lý AI > Checklists,Vận hành > Trợ lý AI > Checklists,Nhân sự (HRM) > Quy trình > Checklists
+F111,API & MCP,Kết nối & Dữ liệu > API & MCP,Cài đặt > Nhà phát triển > API & MCP,Cài đặt > Nhà phát triển > API & MCP,Quản trị > Nhà phát triển > API & MCP
+F112,Kết nối AI,Kết nối & Dữ liệu > Kết nối AI,Cài đặt > AI > Kết nối AI,Cài đặt > AI > Kết nối AI,Quản trị > AI > Kết nối AI
+F113,MCP,Kết nối & Dữ liệu > MCP,Cài đặt > Nhà phát triển > MCP,Cài đặt > Nhà phát triển > MCP,Quản trị > Nhà phát triển > MCP
+F114,API docs,Kết nối & Dữ liệu > API docs,Cài đặt > Nhà phát triển > API docs,Cài đặt > Nhà phát triển > API docs,Quản trị > Nhà phát triển > API docs
+F115,CLI,Kết nối & Dữ liệu > CLI,Cài đặt > Nhà phát triển > CLI,Cài đặt > Nhà phát triển > CLI,Quản trị > Nhà phát triển > CLI
+F116,Google,Kết nối & Dữ liệu > Google,Cài đặt > Tích hợp > Google,Cài đặt > Tích hợp > Google,Quản trị > Tích hợp > Google
+F117,Google Analytics,Kết nối & Dữ liệu > Google Analytics,Cài đặt > Tích hợp > Google Analytics,Cài đặt > Tích hợp > Google Analytics,Quản trị > Tích hợp > Google Analytics
+F118,Google Sheets,Kết nối & Dữ liệu > Google Sheets,Cài đặt > Tích hợp > Google Sheets,Cài đặt > Tích hợp > Google Sheets,Quản trị > Tích hợp > Google Sheets
+F119,Đồng bộ Sheet,Kết nối & Dữ liệu > Đồng bộ Sheet,Cài đặt > Tích hợp > Đồng bộ Sheet,Cài đặt > Tích hợp > Đồng bộ Sheet,Quản trị > Tích hợp > Đồng bộ Sheet
+F120,WEDU sync,Kết nối & Dữ liệu > WEDU sync,Cài đặt > Tích hợp > WEDU sync,Cài đặt > Tích hợp > WEDU sync,Quản trị > Tích hợp > WEDU sync
+F121,Nhật ký đồng bộ,Kết nối & Dữ liệu > Nhật ký đồng bộ,Cài đặt > Tích hợp > Nhật ký đồng bộ,Cài đặt > Tích hợp > Nhật ký đồng bộ,Quản trị > Tích hợp > Nhật ký đồng bộ
+F122,Kênh kết nối,Kết nối & Dữ liệu > Kênh kết nối,Cài đặt > Tích hợp > Kênh kết nối,Cài đặt > Tích hợp > Kênh kết nối,Quản trị > Tích hợp > Kênh kết nối
+F123,Dự án,Kết nối & Dữ liệu > Dự án,Cài đặt > Tích hợp > Website & app theo dõi,Cài đặt > Tích hợp > Website & app theo dõi,Quản trị > Tích hợp > Website & app theo dõi
+F124,Hành trình khách hàng,Kết nối & Dữ liệu > Hành trình khách hàng,Marketing > Khách tiềm năng > Hành trình khách hàng,Marketing > Khách tiềm năng > Hành trình khách hàng,Marketing > Khách tiềm năng > Hành trình khách hàng
+F125,Nguồn & Hành trình,Kết nối & Dữ liệu > Nguồn & Hành trình,Marketing > Khách tiềm năng > Nguồn & hành trình,Marketing > Khách tiềm năng > Nguồn & hành trình,Marketing > Khách tiềm năng > Nguồn & hành trình
+F126,Webhook đẩy ra,Kết nối & Dữ liệu > Webhook đẩy ra,Cài đặt > Tích hợp > Webhook đẩy ra,Cài đặt > Tích hợp > Webhook đẩy ra,Quản trị > Tích hợp > Webhook đẩy ra
+F127,Lead Sources,Kết nối & Dữ liệu > Lead Sources,Marketing > Khách tiềm năng > Nguồn lead,Marketing > Khách tiềm năng > Nguồn lead,Marketing > Khách tiềm năng > Nguồn lead
+F128,Quy tắc chuyển đổi,Kết nối & Dữ liệu > Quy tắc chuyển đổi,Marketing > Khách tiềm năng > Quy tắc ghi nhận chuyển đổi,Marketing > Khách tiềm năng > Quy tắc ghi nhận chuyển đổi,Marketing > Khách tiềm năng > Quy tắc ghi nhận chuyển đổi
+F129,Webhook,Kết nối & Dữ liệu > Webhook,Cài đặt > Tích hợp > Webhook,Cài đặt > Tích hợp > Webhook,Quản trị > Tích hợp > Webhook
+F130,Nhân sự,Nội bộ công ty > Nhân sự,Tổ chức > Nhân sự,Vận hành > Tổ chức > Nhân sự,Nhân sự (HRM) > Tổ chức > Nhân sự
+F131,Sơ đồ tổ chức,Nội bộ công ty > Sơ đồ tổ chức,Tổ chức > Sơ đồ tổ chức,Vận hành > Tổ chức > Sơ đồ tổ chức,Nhân sự (HRM) > Tổ chức > Sơ đồ tổ chức
+F132,Phòng ban,Nội bộ công ty > Phòng ban,Tổ chức > Phòng ban,Vận hành > Tổ chức > Phòng ban,Nhân sự (HRM) > Tổ chức > Phòng ban
+F133,Vị trí,Nội bộ công ty > Vị trí,Tổ chức > Vị trí / chức danh,Vận hành > Tổ chức > Vị trí / chức danh,Nhân sự (HRM) > Tổ chức > Vị trí / chức danh
+F134,Dự án nội bộ,Nội bộ công ty > Dự án nội bộ,Tổ chức > Dự án nội bộ,Vận hành > Tổ chức > Dự án nội bộ,Nhân sự (HRM) > Dự án nội bộ > Dự án nội bộ
+F135,Gantt portfolio,Nội bộ công ty > Gantt portfolio,Tổ chức > Gantt portfolio,Vận hành > Tổ chức > Gantt portfolio,Nhân sự (HRM) > Dự án nội bộ > Gantt portfolio
+F136,ROI dự án,Nội bộ công ty > ROI dự án,Tổ chức > ROI dự án,Vận hành > Tổ chức > ROI dự án,Nhân sự (HRM) > Dự án nội bộ > ROI dự án
+F137,Hướng dẫn,Cài đặt & Bảo mật > Hướng dẫn,Trợ giúp,Trợ giúp,Trợ giúp
+F138,Bảo mật,Cài đặt & Bảo mật > Bảo mật,Cài đặt > Người dùng & bảo mật > Bảo mật,Cài đặt > Người dùng & bảo mật > Bảo mật,Quản trị > Người dùng & bảo mật > Bảo mật
+F139,Đội nhóm,Cài đặt & Bảo mật > Đội nhóm,Cài đặt > Người dùng & bảo mật > Đội nhóm,Cài đặt > Người dùng & bảo mật > Đội nhóm,Quản trị > Người dùng & bảo mật > Đội nhóm
+F140,Hồ sơ,Cài đặt & Bảo mật > Hồ sơ,Cài đặt > Tài khoản của tôi > Hồ sơ,Của tôi > Hồ sơ,Tài khoản > Hồ sơ
+F141,Roles,Cài đặt & Bảo mật > Roles,Cài đặt > Người dùng & bảo mật > Vai trò,Cài đặt > Người dùng & bảo mật > Vai trò,Quản trị > Người dùng & bảo mật > Vai trò
+F142,Phân quyền,Cài đặt & Bảo mật > Phân quyền,Cài đặt > Người dùng & bảo mật > Phân quyền,Cài đặt > Người dùng & bảo mật > Phân quyền,Quản trị > Người dùng & bảo mật > Phân quyền
+F143,Nhật ký kiểm toán,Cài đặt & Bảo mật > Nhật ký kiểm toán,Cài đặt > Người dùng & bảo mật > Nhật ký kiểm toán,Cài đặt > Người dùng & bảo mật > Nhật ký kiểm toán,Quản trị > Người dùng & bảo mật > Nhật ký kiểm toán
+F144,Quản trị toàn hệ thống,Cài đặt & Bảo mật > Quản trị toàn hệ thống,Cài đặt > Người dùng & bảo mật > Quản trị toàn hệ thống,Cài đặt > Người dùng & bảo mật > Quản trị toàn hệ thống,Quản trị > Người dùng & bảo mật > Quản trị toàn hệ thống

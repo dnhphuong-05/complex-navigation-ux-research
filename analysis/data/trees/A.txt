@@ -1,0 +1,158 @@
+Tổng quan
+CRM Core
+	Tổng khách hàng
+	Liên hệ
+	Doanh nghiệp
+	Lead
+	Bảng kanban
+	Trường tuỳ chỉnh
+	Thẻ
+	Nhập liên hệ
+	Trùng lặp
+	Công việc của tôi
+	Sức khoẻ khách hàng
+	Danh sách
+	Cảnh báo
+Phễu bán hàng
+	Cơ hội bán
+	Báo cáo phễu
+	Bảng kanban
+	Danh sách
+	Pipelines
+	Dự báo
+	Mô phỏng what-if
+	Thắng / Thua
+	Hạn ngạch
+	Hạn ngạch của tôi
+	Kế hoạch hoa hồng
+	Chi trả
+	Hoa hồng của tôi
+	Quy trình phê duyệt
+	Phê duyệt
+	Lý do thất bại
+Sản phẩm & Đơn hàng
+	Sản phẩm
+	Danh mục
+	Bảng giá
+	Chiết khấu
+	Tồn kho
+	Combo
+	Đơn hàng
+	Báo cáo đơn hàng
+Thanh toán & Hợp đồng
+	Báo giá
+	Hoá đơn
+	Tuổi nợ
+	Thanh toán
+	Đối soát
+	Tài khoản SePay
+	Giao dịch SePay
+	Cài đặt thanh toán
+	Chữ ký điện tử
+Email Marketing
+	Email Marketing
+	Người đăng ký
+	Lists
+	Analytics
+	Chuỗi email
+	Tài khoản email
+	Chiến dịch
+	Mẫu email
+	Biến mail
+	Phân khúc
+	Biểu mẫu
+Landing & Phễu
+	Sơ đồ phễu
+	Trang đích
+	Tạo QR
+	Gắn UTM
+	Luồng tự động
+	Mẫu luồng
+	Lịch sử chạy
+	Chấm điểm lead
+	Phân công lead
+Truyền thông
+	Hộp thư
+	Quy tắc hộp thư
+	SMS
+	SMS Accounts
+	Zalo ZNS
+	Zalo OA
+Báo cáo & Hiệu suất
+	Trang chủ
+	Bảng điều khiển
+	Báo cáo
+	Mẫu báo cáo
+	Lịch gửi báo cáo
+	Xuất dữ liệu
+	KPI Tree
+	Mô phỏng what-if
+	Phòng ban & Team
+	OKR
+	Cây liên kết
+	Check-ins
+	Tài chính
+	Báo cáo P&L
+	Bảng cân đối
+	Lưu chuyển tiền tệ
+	Hệ thống tài khoản
+	Bút toán
+	Ngân sách
+	Trung tâm chi phí
+	Độ trưởng thành
+	Tổng quan
+Affiliate
+	Affiliate Dashboard
+	Đại lý
+	Link giới thiệu
+	Chuyển đổi
+	Chi trả hoa hồng
+	Cài đặt
+AI & Tự động hoá
+	Trợ lý AI
+	Lịch sử trò chuyện
+	Mức dùng AI
+	Cấu hình AI
+	Cảnh báo
+	Quy tắc cảnh báo
+	Thông báo
+	Knowledge
+	Tìm tài liệu
+	Checklists
+Kết nối & Dữ liệu
+	API & MCP
+	Kết nối AI
+	MCP
+	API docs
+	CLI
+	Google
+	Google Analytics
+	Google Sheets
+	Đồng bộ Sheet
+	WEDU sync
+	Nhật ký đồng bộ
+	Kênh kết nối
+	Dự án
+	Hành trình khách hàng
+	Nguồn & Hành trình
+	Webhook đẩy ra
+	Lead Sources
+	Quy tắc chuyển đổi
+	Webhook
+Nội bộ công ty
+	Nhân sự
+	Sơ đồ tổ chức
+	Phòng ban
+	Vị trí
+	Dự án nội bộ
+	Gantt portfolio
+	ROI dự án
+Cài đặt & Bảo mật
+	Hướng dẫn
+	Bảo mật
+	Đội nhóm
+	Hồ sơ
+	Roles
+	Phân quyền
+	Nhật ký kiểm toán
+	Quản trị toàn hệ thống

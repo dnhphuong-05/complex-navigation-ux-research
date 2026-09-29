@@ -1,0 +1,146 @@
+feature_id,feature_name,current_l1,current_l2,current_l3,l1_order,l2_order,label_lang,audit_flags,related_feature_ids,role_primary,usage_frequency,business_criticality,search_rate,click_rate,avg_time_to_feature,ambiguity_notes
+F000,Tổng quan,Tổng quan,,,0,0,vi,DUP,F094,,,,,,,Trùng tên với 'Tổng quan' trong Báo cáo & Hiệu suất
+F001,Tổng khách hàng,CRM Core,Tổng khách hàng,,1,1,vi,,,,,,,,,GIẢ ĐỊNH (tin cậy TB): trang tổng quan khách hàng (dashboard / Customer 360). Nhãn đề xuất: Tổng quan khách hàng
+F002,Liên hệ,CRM Core,Liên hệ,,1,2,vi,NEAR,F048,,,,,,,Chồng nghĩa với 'Người đăng ký' (Email Marketing)
+F003,Doanh nghiệp,CRM Core,Doanh nghiệp,,1,3,vi,,,,,,,,,
+F004,Lead,CRM Core,Lead,,1,4,en,MIX;NEAR,F065;F066;F127,,,,,,,"Khái niệm lead xuất hiện ở 3 L1: CRM Core, Landing & Phễu (chấm điểm/phân công), Kết nối & Dữ liệu (Lead Sources)"
+F005,Bảng kanban,CRM Core,Bảng kanban,,1,5,vi,DUP,F016,,,,,,,Trùng tên với 'Bảng kanban' trong Phễu bán hàng; không rõ kanban của đối tượng nào
+F006,Trường tuỳ chỉnh,CRM Core,Trường tuỳ chỉnh,,1,6,vi,CONFIG,,,,,,,,Mục cấu hình nằm trong module nghiệp vụ
+F007,Thẻ,CRM Core,Thẻ,,1,7,vi,CONFIG,,,,,,,,Mục cấu hình nằm trong module nghiệp vụ
+F008,Nhập liên hệ,CRM Core,Nhập liên hệ,,1,8,vi,,,,,,,,,"Là hành động (import), không phải nơi chốn; có thể là action trong trang Liên hệ"
+F009,Trùng lặp,CRM Core,Trùng lặp,,1,9,vi,,,,,,,,,Là công cụ dọn dữ liệu; label ngắn có thể thiếu information scent
+F010,Công việc của tôi,CRM Core,Công việc của tôi,,1,10,vi,PERSONAL,F023;F026,,,,,,,Mục cá nhân; các mục 'của tôi' nằm rải rác ở nhiều L1
+F011,Sức khoẻ khách hàng,CRM Core,Sức khoẻ khách hàng,,1,11,vi,,,,,,,,,
+F012,Danh sách,CRM Core,Danh sách,,1,12,vi,DUP;NEAR,F017;F049;F056,,,,,,,Trùng tên với 'Danh sách' (Phễu bán hàng); gần nghĩa với 'Lists' và 'Phân khúc' (Email Marketing)
+F013,Cảnh báo,CRM Core,Cảnh báo,,1,13,vi,DUP,F105,,,,,,,Trùng tên với 'Cảnh báo' (AI & Tự động hoá)
+F014,Cơ hội bán,Phễu bán hàng,Cơ hội bán,,2,1,vi,,,,,,,,,
+F015,Báo cáo phễu,Phễu bán hàng,Báo cáo phễu,,2,2,vi,NEAR,F075,,,,,,,Báo cáo nằm ngoài L1 Báo cáo & Hiệu suất
+F016,Bảng kanban,Phễu bán hàng,Bảng kanban,,2,3,vi,DUP,F005,,,,,,,Trùng tên với 'Bảng kanban' (CRM Core)
+F017,Danh sách,Phễu bán hàng,Danh sách,,2,4,vi,DUP,F012,,,,,,,Trùng tên với 'Danh sách' (CRM Core)
+F018,Pipelines,Phễu bán hàng,Pipelines,,2,5,en,MIX,,,,,,,,Tiếng Anh; icon bánh răng gợi ý đây là cấu hình pipeline
+F019,Dự báo,Phễu bán hàng,Dự báo,,2,6,vi,,,,,,,,,
+F020,Mô phỏng what-if,Phễu bán hàng,Mô phỏng what-if,,2,7,mixed,DUP;MIX,F080,,,,,,,Trùng tên với 'Mô phỏng what-if' (Báo cáo & Hiệu suất)
+F021,Thắng / Thua,Phễu bán hàng,Thắng / Thua,,2,8,vi,NEAR,F029,,,,,,,Gần nghĩa với 'Lý do thất bại'
+F022,Hạn ngạch,Phễu bán hàng,Hạn ngạch,,2,9,vi,,,,,,,,,
+F023,Hạn ngạch của tôi,Phễu bán hàng,Hạn ngạch của tôi,,2,10,vi,PERSONAL,F010;F026,,,,,,,
+F024,Kế hoạch hoa hồng,Phễu bán hàng,Kế hoạch hoa hồng,,2,11,vi,NEAR,F099,,,,,,,Hoa hồng xuất hiện ở cả Phễu bán hàng và Affiliate
+F025,Chi trả,Phễu bán hàng,Chi trả,,2,12,vi,NEAR,F099;F041,,,,,,,GIẢ ĐỊNH (tin cậy cao): chi trả hoa hồng cho nhân viên sales theo Kế hoạch hoa hồng. Gần nghĩa với Chi trả hoa hồng (Affiliate). Nhãn đề xuất: Chi trả hoa hồng nhân viên
+F026,Hoa hồng của tôi,Phễu bán hàng,Hoa hồng của tôi,,2,13,vi,PERSONAL,F010;F023,,,,,,,
+F027,Quy trình phê duyệt,Phễu bán hàng,Quy trình phê duyệt,,2,14,vi,CONFIG,,,,,,,,Cấu hình quy trình nằm trong module nghiệp vụ
+F028,Phê duyệt,Phễu bán hàng,Phê duyệt,,2,15,vi,NEAR,F027,,,,,,,"GIẢ ĐỊNH (tin cậy TB–cao): hộp yêu cầu chờ duyệt (giảm giá, báo giá, thương vụ, hoa hồng) theo Quy trình phê duyệt. Nhãn đề xuất: Yêu cầu chờ duyệt"
+F029,Lý do thất bại,Phễu bán hàng,Lý do thất bại,,2,16,vi,NEAR,F021,,,,,,,
+F030,Sản phẩm,Sản phẩm & Đơn hàng,Sản phẩm,,3,1,vi,,,,,,,,,
+F031,Danh mục,Sản phẩm & Đơn hàng,Danh mục,,3,2,vi,,,,,,,,,'Danh mục' có thể hiểu là category sản phẩm hoặc danh mục chung
+F032,Bảng giá,Sản phẩm & Đơn hàng,Bảng giá,,3,3,vi,NEAR,F038,,,,,,,Gần nghĩa với 'Báo giá' (Thanh toán & Hợp đồng)
+F033,Chiết khấu,Sản phẩm & Đơn hàng,Chiết khấu,,3,4,vi,,,,,,,,,
+F034,Tồn kho,Sản phẩm & Đơn hàng,Tồn kho,,3,5,vi,,,,,,,,,
+F035,Combo,Sản phẩm & Đơn hàng,Combo,,3,6,en,MIX,,,,,,,,
+F036,Đơn hàng,Sản phẩm & Đơn hàng,Đơn hàng,,3,7,vi,,,,,,,,,
+F037,Báo cáo đơn hàng,Sản phẩm & Đơn hàng,Báo cáo đơn hàng,,3,8,vi,NEAR,F075,,,,,,,Báo cáo nằm ngoài L1 Báo cáo & Hiệu suất
+F038,Báo giá,Thanh toán & Hợp đồng,Báo giá,,4,1,vi,NEAR,F032,,,,,,,"Báo giá thường thuộc quy trình bán hàng (trước đơn hàng), không phải thanh toán"
+F039,Hoá đơn,Thanh toán & Hợp đồng,Hoá đơn,,4,2,vi,,,,,,,,,
+F040,Tuổi nợ,Thanh toán & Hợp đồng,Tuổi nợ,,4,3,vi,,,,,,,,,
+F041,Thanh toán,Thanh toán & Hợp đồng,Thanh toán,,4,4,vi,NEAR,F025,,,,,,,
+F042,Đối soát,Thanh toán & Hợp đồng,Đối soát,,4,5,vi,,,,,,,,,
+F043,Tài khoản SePay,Thanh toán & Hợp đồng,Tài khoản SePay,,4,6,mixed,CONFIG,F122,,,,,,,Tên nhà cung cấp làm label; có thể thuộc Kết nối & Dữ liệu
+F044,Giao dịch SePay,Thanh toán & Hợp đồng,Giao dịch SePay,,4,7,mixed,,,,,,,,,Tên nhà cung cấp làm label; user có thể tìm ở 'Thanh toán'
+F045,Cài đặt thanh toán,Thanh toán & Hợp đồng,Cài đặt thanh toán,,4,8,vi,CONFIG,,,,,,,,
+F046,Chữ ký điện tử,Thanh toán & Hợp đồng,Chữ ký điện tử,,4,9,vi,,,,,,,,,L1 có chữ 'Hợp đồng' nhưng không có mục 'Hợp đồng'; chỉ có 'Chữ ký điện tử'
+F047,Email Marketing,Email Marketing,Email Marketing,,5,1,en,MIX;SAME_AS_PARENT,,,,,,,,Trùng tên với chính L1 cha; không rõ trang này là gì (tổng quan?)
+F048,Người đăng ký,Email Marketing,Người đăng ký,,5,2,vi,NEAR,F002,,,,,,,
+F049,Lists,Email Marketing,Lists,,5,3,en,MIX;NEAR,F012,,,,,,,Tiếng Anh; gần nghĩa với 'Danh sách' (CRM Core)
+F050,Analytics,Email Marketing,Analytics,,5,4,en,MIX;NEAR,F075,,,,,,,Tiếng Anh; báo cáo nằm ngoài L1 Báo cáo & Hiệu suất
+F051,Chuỗi email,Email Marketing,Chuỗi email,,5,5,vi,NEAR,F062,,,,,,,Gần nghĩa với 'Luồng tự động' (Landing & Phễu)
+F052,Tài khoản email,Email Marketing,Tài khoản email,,5,6,vi,CONFIG,,,,,,,,
+F053,Chiến dịch,Email Marketing,Chiến dịch,,5,7,vi,,,,,,,,,
+F054,Mẫu email,Email Marketing,Mẫu email,,5,8,vi,,,,,,,,,
+F055,Biến mail,Email Marketing,Biến mail,,5,9,mixed,CONFIG,,,,,,,,Thuật ngữ kỹ thuật (merge tags)
+F056,Phân khúc,Email Marketing,Phân khúc,,5,10,vi,NEAR,F012;F049,,,,,,,Gần nghĩa với 'Danh sách' / 'Lists'
+F057,Biểu mẫu,Email Marketing,Biểu mẫu,,5,11,vi,NEAR,F059,,,,,,,Form thu lead có thể được tìm ở Landing & Phễu
+F058,Sơ đồ phễu,Landing & Phễu,Sơ đồ phễu,,6,1,vi,NEAR,F014,,,,,,,Chữ 'phễu' trùng với L1 'Phễu bán hàng' — phễu marketing vs phễu bán hàng
+F059,Trang đích,Landing & Phễu,Trang đích,,6,2,vi,,,,,,,,,
+F060,Tạo QR,Landing & Phễu,Tạo QR,,6,3,vi,,,,,,,,,"Là hành động (động từ), không phải nơi chốn"
+F061,Gắn UTM,Landing & Phễu,Gắn UTM,,6,4,mixed,,,,,,,,,"Là hành động (động từ), không phải nơi chốn"
+F062,Luồng tự động,Landing & Phễu,Luồng tự động,,6,5,vi,MISPLACED,F051,,,,,,,"Automation workflow nằm ở Landing & Phễu, không nằm ở L1 'AI & Tự động hoá'"
+F063,Mẫu luồng,Landing & Phễu,Mẫu luồng,,6,6,vi,MISPLACED,F062,,,,,,,
+F064,Lịch sử chạy,Landing & Phễu,Lịch sử chạy,,6,7,vi,MISPLACED,F121,,,,,,,Gần nghĩa với 'Nhật ký đồng bộ' (Kết nối & Dữ liệu)
+F065,Chấm điểm lead,Landing & Phễu,Chấm điểm lead,,6,8,mixed,NEAR,F004,,,,,,,
+F066,Phân công lead,Landing & Phễu,Phân công lead,,6,9,mixed,NEAR,F004,,,,,,,
+F067,Hộp thư,Truyền thông,Hộp thư,,7,1,vi,,,,,,,,,
+F068,Quy tắc hộp thư,Truyền thông,Quy tắc hộp thư,,7,2,vi,CONFIG,,,,,,,,
+F069,SMS,Truyền thông,SMS,,7,3,en,,,,,,,,,
+F070,SMS Accounts,Truyền thông,SMS Accounts,,7,4,en,MIX;CONFIG,F052,,,,,,,"Tiếng Anh, trong khi mục tương đương là 'Tài khoản email'"
+F071,Zalo ZNS,Truyền thông,Zalo ZNS,,7,5,en,,,,,,,,,
+F072,Zalo OA,Truyền thông,Zalo OA,,7,6,en,CONFIG,,,,,,,,
+F073,Trang chủ,Báo cáo & Hiệu suất,Trang chủ,,8,1,vi,NEAR,F000;F074;F094,,,,,,,"Có 'Trang chủ', 'Bảng điều khiển' và 'Tổng quan' trong cùng một L1, cộng thêm 'Tổng quan' toàn cục"
+F074,Bảng điều khiển,Báo cáo & Hiệu suất,Bảng điều khiển,,8,2,vi,NEAR,F073;F094,,,,,,,
+F075,Báo cáo,Báo cáo & Hiệu suất,Báo cáo,,8,3,vi,,,,,,,,,
+F076,Mẫu báo cáo,Báo cáo & Hiệu suất,Mẫu báo cáo,,8,4,vi,,,,,,,,,
+F077,Lịch gửi báo cáo,Báo cáo & Hiệu suất,Lịch gửi báo cáo,,8,5,vi,,,,,,,,,
+F078,Xuất dữ liệu,Báo cáo & Hiệu suất,Xuất dữ liệu,,8,6,vi,,,,,,,,,Có thể được tìm ở Kết nối & Dữ liệu
+F079,KPI Tree,Báo cáo & Hiệu suất,KPI Tree,,8,7,en,MIX,,,,,,,,Cụm quản trị hiệu suất (KPI/OKR/Check-ins) nằm chung với báo cáo và kế toán
+F080,Mô phỏng what-if,Báo cáo & Hiệu suất,Mô phỏng what-if,,8,8,mixed,DUP;MIX,F020,,,,,,,Trùng tên với 'Mô phỏng what-if' (Phễu bán hàng)
+F081,Phòng ban & Team,Báo cáo & Hiệu suất,Phòng ban & Team,,8,9,mixed,NEAR;MIX,F132,,,,,,,Gần nghĩa với 'Phòng ban' (Nội bộ công ty)
+F082,OKR,Báo cáo & Hiệu suất,OKR,,8,10,en,MIX,,,,,,,,
+F083,Cây liên kết,Báo cáo & Hiệu suất,Cây liên kết,,8,11,vi,,,,,,,,,GIẢ ĐỊNH (tin cậy TB–cao): cây liên kết mục tiêu OKR công ty → phòng ban → cá nhân. Nhãn đề xuất: Cây liên kết mục tiêu
+F084,Check-ins,Báo cáo & Hiệu suất,Check-ins,,8,12,en,MIX,,,,,,,,
+F085,Tài chính,Báo cáo & Hiệu suất,Tài chính,,8,13,vi,MISPLACED,,,,,,,,Cụm kế toán–tài chính (7 mục) nằm trong Báo cáo & Hiệu suất
+F086,Báo cáo P&L,Báo cáo & Hiệu suất,Báo cáo P&L,,8,14,mixed,MISPLACED,,,,,,,,
+F087,Bảng cân đối,Báo cáo & Hiệu suất,Bảng cân đối,,8,15,vi,MISPLACED,,,,,,,,
+F088,Lưu chuyển tiền tệ,Báo cáo & Hiệu suất,Lưu chuyển tiền tệ,,8,16,vi,MISPLACED,,,,,,,,
+F089,Hệ thống tài khoản,Báo cáo & Hiệu suất,Hệ thống tài khoản,,8,17,vi,MISPLACED;NEAR,F043,,,,,,,'Tài khoản' ở đây là tài khoản kế toán; dễ nhầm với tài khoản người dùng / SePay / email
+F090,Bút toán,Báo cáo & Hiệu suất,Bút toán,,8,18,vi,MISPLACED,,,,,,,,
+F091,Ngân sách,Báo cáo & Hiệu suất,Ngân sách,,8,19,vi,MISPLACED,,,,,,,,
+F092,Trung tâm chi phí,Báo cáo & Hiệu suất,Trung tâm chi phí,,8,20,vi,MISPLACED,,,,,,,,
+F093,Độ trưởng thành,Báo cáo & Hiệu suất,Độ trưởng thành,,8,21,vi,,,,,,,,,"GIẢ ĐỊNH (tin cậy thấp): đánh giá mức độ trưởng thành quản trị (tự chấm theo trụ cột, có gợi ý cải thiện). Nhãn đề xuất: Đánh giá độ trưởng thành"
+F094,Tổng quan,Báo cáo & Hiệu suất,Tổng quan,,8,22,vi,DUP,F000;F073,,,,,,,Trùng tên với 'Tổng quan' toàn cục
+F095,Affiliate Dashboard,Affiliate,Affiliate Dashboard,,9,1,en,MIX,,,,,,,,
+F096,Đại lý,Affiliate,Đại lý,,9,2,vi,,,,,,,,,
+F097,Link giới thiệu,Affiliate,Link giới thiệu,,9,3,mixed,,,,,,,,,
+F098,Chuyển đổi,Affiliate,Chuyển đổi,,9,4,vi,NEAR,F128,,,,,,,Gần nghĩa với 'Quy tắc chuyển đổi' (Kết nối & Dữ liệu)
+F099,Chi trả hoa hồng,Affiliate,Chi trả hoa hồng,,9,5,vi,NEAR,F024;F025,,,,,,,Gần nghĩa với 'Chi trả' / 'Kế hoạch hoa hồng' (Phễu bán hàng)
+F100,Cài đặt,Affiliate,Cài đặt,,9,6,vi,DUP;CONFIG,,,,,,,,"Label 'Cài đặt' chung chung, trùng với tên L1 'Cài đặt & Bảo mật'"
+F101,Trợ lý AI,AI & Tự động hoá,Trợ lý AI,,10,1,vi,,,,,,,,,
+F102,Lịch sử trò chuyện,AI & Tự động hoá,Lịch sử trò chuyện,,10,2,vi,,,,,,,,,
+F103,Mức dùng AI,AI & Tự động hoá,Mức dùng AI,,10,3,vi,,,,,,,,,
+F104,Cấu hình AI,AI & Tự động hoá,Cấu hình AI,,10,4,vi,CONFIG;NEAR,F112,,,,,,,Gần nghĩa với 'Kết nối AI' (Kết nối & Dữ liệu)
+F105,Cảnh báo,AI & Tự động hoá,Cảnh báo,,10,5,vi,DUP,F013,,,,,,,Trùng tên với 'Cảnh báo' (CRM Core)
+F106,Quy tắc cảnh báo,AI & Tự động hoá,Quy tắc cảnh báo,,10,6,vi,CONFIG,,,,,,,,
+F107,Thông báo,AI & Tự động hoá,Thông báo,,10,7,vi,NEAR,F105,,,,,,,Phân biệt Cảnh báo vs Thông báo chưa rõ
+F108,Knowledge,AI & Tự động hoá,Knowledge,,10,8,en,MIX,,,,,,,,
+F109,Tìm tài liệu,AI & Tự động hoá,Tìm tài liệu,,10,9,vi,,,,,,,,,Có thể bị nhầm với ô tìm kiếm toàn cục (⌘K)
+F110,Checklists,AI & Tự động hoá,Checklists,,10,10,en,MIX,,,,,,,,Không rõ liên quan AI/tự động hoá
+F111,API & MCP,Kết nối & Dữ liệu,API & MCP,,11,1,en,NEAR,F113,,,,,,,Chồng nghĩa với mục 'MCP' riêng
+F112,Kết nối AI,Kết nối & Dữ liệu,Kết nối AI,,11,2,mixed,NEAR,F104,,,,,,,
+F113,MCP,Kết nối & Dữ liệu,MCP,,11,3,en,NEAR,F111,,,,,,,
+F114,API docs,Kết nối & Dữ liệu,API docs,,11,4,en,MIX,,,,,,,,
+F115,CLI,Kết nối & Dữ liệu,CLI,,11,5,en,,,,,,,,,
+F116,Google,Kết nối & Dữ liệu,Google,,11,6,en,,,,,,,,,
+F117,Google Analytics,Kết nối & Dữ liệu,Google Analytics,,11,7,en,,,,,,,,,
+F118,Google Sheets,Kết nối & Dữ liệu,Google Sheets,,11,8,en,NEAR,F119,,,,,,,
+F119,Đồng bộ Sheet,Kết nối & Dữ liệu,Đồng bộ Sheet,,11,9,mixed,NEAR,F118,,,,,,,Gần nghĩa với 'Google Sheets'
+F120,WEDU sync,Kết nối & Dữ liệu,WEDU sync,,11,10,en,MIX,,,,,,,,
+F121,Nhật ký đồng bộ,Kết nối & Dữ liệu,Nhật ký đồng bộ,,11,11,vi,NEAR,F064,,,,,,,
+F122,Kênh kết nối,Kết nối & Dữ liệu,Kênh kết nối,,11,12,vi,NEAR,F067,,,,,,,Có thể chồng nghĩa với các kênh trong Truyền thông
+F123,Dự án,Kết nối & Dữ liệu,Dự án,,11,13,vi,MISPLACED;NEAR,F134,,,,,,,"GIẢ ĐỊNH (tin cậy thấp–TB): dự án tracking — website/app gắn mã theo dõi, nguồn dữ liệu cho Hành trình khách hàng. Nhãn đề xuất: Website & app theo dõi"
+F124,Hành trình khách hàng,Kết nối & Dữ liệu,Hành trình khách hàng,,11,14,vi,MISPLACED;NEAR,F125,,,,,,,Nội dung phân tích/marketing nằm trong nhóm tích hợp
+F125,Nguồn & Hành trình,Kết nối & Dữ liệu,Nguồn & Hành trình,,11,15,vi,NEAR,F124,,,,,,,
+F126,Webhook đẩy ra,Kết nối & Dữ liệu,Webhook đẩy ra,,11,16,mixed,NEAR,F129,,,,,,,
+F127,Lead Sources,Kết nối & Dữ liệu,Lead Sources,,11,17,en,MIX;NEAR,F004;F125,,,,,,,
+F128,Quy tắc chuyển đổi,Kết nối & Dữ liệu,Quy tắc chuyển đổi,,11,18,vi,NEAR,F098,,,,,,,"GIẢ ĐỊNH (tin cậy TB): quy tắc xác định sự kiện nào tính là chuyển đổi, dùng ghi nhận nguồn. Gần nghĩa với Chuyển đổi (Affiliate). Nhãn đề xuất: Quy tắc ghi nhận chuyển đổi"
+F129,Webhook,Kết nối & Dữ liệu,Webhook,,11,19,en,NEAR,F126,,,,,,,'Webhook' và 'Webhook đẩy ra' là 2 mục riêng
+F130,Nhân sự,Nội bộ công ty,Nhân sự,,12,1,vi,,,,,,,,,
+F131,Sơ đồ tổ chức,Nội bộ công ty,Sơ đồ tổ chức,,12,2,vi,,,,,,,,,
+F132,Phòng ban,Nội bộ công ty,Phòng ban,,12,3,vi,NEAR,F081,,,,,,,
+F133,Vị trí,Nội bộ công ty,Vị trí,,12,4,vi,,,,,,,,,'Vị trí' có thể hiểu là chức danh hoặc địa điểm
+F134,Dự án nội bộ,Nội bộ công ty,Dự án nội bộ,,12,5,vi,NEAR,F123,,,,,,,
+F135,Gantt portfolio,Nội bộ công ty,Gantt portfolio,,12,6,en,MIX,,,,,,,,
+F136,ROI dự án,Nội bộ công ty,ROI dự án,,12,7,mixed,,,,,,,,,
+F137,Hướng dẫn,Cài đặt & Bảo mật,Hướng dẫn,,13,1,vi,MISPLACED,,,,,,,,Trợ giúp nằm trong Cài đặt & Bảo mật
+F138,Bảo mật,Cài đặt & Bảo mật,Bảo mật,,13,2,vi,,,,,,,,,
+F139,Đội nhóm,Cài đặt & Bảo mật,Đội nhóm,,13,3,vi,NEAR,F132;F081,,,,,,,Gần nghĩa với 'Phòng ban' / 'Phòng ban & Team' / 'Nhân sự'
+F140,Hồ sơ,Cài đặt & Bảo mật,Hồ sơ,,13,4,vi,PERSONAL,,,,,,,,
+F141,Roles,Cài đặt & Bảo mật,Roles,,13,5,en,MIX;NEAR,F142,,,,,,,Tiếng Anh; ranh giới với 'Phân quyền' chưa rõ
+F142,Phân quyền,Cài đặt & Bảo mật,Phân quyền,,13,6,vi,NEAR,F141,,,,,,,
+F143,Nhật ký kiểm toán,Cài đặt & Bảo mật,Nhật ký kiểm toán,,13,7,vi,,,,,,,,,
+F144,Quản trị toàn hệ thống,Cài đặt & Bảo mật,Quản trị toàn hệ thống,,13,8,vi,,,,,,,,,

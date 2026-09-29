@@ -1,0 +1,13 @@
+task_id,scenario,correct_feature_ids,acceptable_feature_ids,role_focus,audit_ref,hypothesis
+T01,"Một người vừa gọi điện hỏi về sản phẩm. Bạn muốn lưu tên và số điện thoại của họ vào hệ thống.",F002,F004;F008,all,AF07,H02
+T02,"Khách hỏi đơn hàng #1024 của họ đã được ghi nhận tiền chưa. Bạn kiểm tra ở đâu?",F041,F036;F044,all,AF08,H02
+T03,"Sếp hỏi doanh thu tháng này so với tháng trước. Bạn xem số liệu ở đâu?",F074;F075,F000;F073;F094,all,AF04;AF05,H04
+T04,"Bạn muốn gửi thư giới thiệu sản phẩm mới đến tất cả những người đã đăng ký nhận tin.",F053,,Marketing,,H01
+T05,"Công ty đang lưu danh sách khách trong Google Sheets. Bạn muốn dữ liệu tự động cập nhật sang CRM.",F119;F118,,Admin,AF12,H02
+T06,"Một nhân viên mới chỉ được xem khách hàng, không được xoá. Bạn cài đặt điều này ở đâu?",F142;F141,,Admin,AF09,H01
+T07,"Mỗi khi một đơn hàng hoàn thành, bạn muốn hệ thống tự gửi email cảm ơn khách.",F062,F051,all,AF03,H08
+T08,"Bạn muốn biết tháng này mình được bao nhiêu tiền hoa hồng.",F026,,Sales,AF07;AF11,H05
+T09,"Khách muốn xem chi tiết chi phí trước khi quyết định mua. Bạn cần soạn và gửi cho họ.",F038,,Sales,AF08,H08
+T10,"Giám đốc muốn biết quý này công ty lãi hay lỗ.",F086,F085,Manager,AF04,H08
+T11,"Khách để lại thông tin từ trang giới thiệu sản phẩm. Bạn muốn họ được tự động chia đều cho các nhân viên bán hàng.",F066,,Marketing,AF02;AF07,H02
+T12,"Bạn muốn tìm những khách hàng có dấu hiệu sắp ngừng sử dụng dịch vụ.",F011,F013,Sales,,H01

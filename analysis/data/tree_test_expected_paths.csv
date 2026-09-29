@@ -1,0 +1,26 @@
+task_id,kind,feature_id,A_path,B_path,C_path,D_path
+T01,correct,F002,CRM Core > Liên hệ,Khách hàng > Liên hệ,Bán hàng > Khách hàng > Liên hệ,Bán hàng (CRM) > Khách hàng > Liên hệ
+T01,acceptable,F004,CRM Core > Lead,Khách hàng > Khách tiềm năng (Lead),Bán hàng > Khách hàng > Khách tiềm năng (Lead),Bán hàng (CRM) > Khách hàng > Khách tiềm năng (Lead)
+T01,acceptable,F008,CRM Core > Nhập liên hệ,Khách hàng > Nhập liên hệ,Bán hàng > Khách hàng > Nhập liên hệ,Bán hàng (CRM) > Khách hàng > Nhập liên hệ
+T02,correct,F041,Thanh toán & Hợp đồng > Thanh toán,Tài chính > Thu tiền > Thanh toán,Tài chính > Thu tiền > Thanh toán,Đơn hàng & Tài chính (ERP) > Thu tiền > Thanh toán
+T02,acceptable,F036,Sản phẩm & Đơn hàng > Đơn hàng,Sản phẩm & Đơn hàng > Đơn hàng,Bán hàng > Sản phẩm & đơn hàng > Đơn hàng,Đơn hàng & Tài chính (ERP) > Đơn hàng > Đơn hàng
+T02,acceptable,F044,Thanh toán & Hợp đồng > Giao dịch SePay,Tài chính > Thu tiền > Giao dịch SePay,Tài chính > Thu tiền > Giao dịch SePay,Đơn hàng & Tài chính (ERP) > Thu tiền > Giao dịch SePay
+T03,correct,F074,Báo cáo & Hiệu suất > Bảng điều khiển,Báo cáo & Mục tiêu > Báo cáo > Bảng điều khiển,Vận hành > Báo cáo > Bảng điều khiển,Báo cáo & Mục tiêu > Báo cáo > Bảng điều khiển
+T03,correct,F075,Báo cáo & Hiệu suất > Báo cáo,Báo cáo & Mục tiêu > Báo cáo > Báo cáo,Vận hành > Báo cáo > Báo cáo,Báo cáo & Mục tiêu > Báo cáo > Báo cáo
+T03,acceptable,F000,Tổng quan,Tổng quan,Tổng quan,Trang chủ > Tổng quan
+T03,acceptable,F073,Báo cáo & Hiệu suất > Trang chủ,Báo cáo & Mục tiêu > Báo cáo > Trang chủ báo cáo,Vận hành > Báo cáo > Trang chủ báo cáo,Báo cáo & Mục tiêu > Báo cáo > Trang chủ báo cáo
+T03,acceptable,F094,Báo cáo & Hiệu suất > Tổng quan,Báo cáo & Mục tiêu > Báo cáo > Tổng quan hiệu suất,Vận hành > Báo cáo > Tổng quan hiệu suất,Báo cáo & Mục tiêu > Báo cáo > Tổng quan hiệu suất
+T04,correct,F053,Email Marketing > Chiến dịch,Marketing > Email > Chiến dịch email,Marketing > Email > Chiến dịch email,Marketing > Email > Chiến dịch email
+T05,correct,F119,Kết nối & Dữ liệu > Đồng bộ Sheet,Cài đặt > Tích hợp > Đồng bộ Sheet,Cài đặt > Tích hợp > Đồng bộ Sheet,Quản trị > Tích hợp > Đồng bộ Sheet
+T05,correct,F118,Kết nối & Dữ liệu > Google Sheets,Cài đặt > Tích hợp > Google Sheets,Cài đặt > Tích hợp > Google Sheets,Quản trị > Tích hợp > Google Sheets
+T06,correct,F142,Cài đặt & Bảo mật > Phân quyền,Cài đặt > Người dùng & bảo mật > Phân quyền,Cài đặt > Người dùng & bảo mật > Phân quyền,Quản trị > Người dùng & bảo mật > Phân quyền
+T06,correct,F141,Cài đặt & Bảo mật > Roles,Cài đặt > Người dùng & bảo mật > Vai trò,Cài đặt > Người dùng & bảo mật > Vai trò,Quản trị > Người dùng & bảo mật > Vai trò
+T07,correct,F062,Landing & Phễu > Luồng tự động,Tự động hoá & AI > Tự động hoá > Luồng tự động,Vận hành > Tự động hoá > Luồng tự động,Tự động hoá > Luồng > Luồng tự động
+T07,acceptable,F051,Email Marketing > Chuỗi email,Marketing > Email > Chuỗi email,Marketing > Email > Chuỗi email,Marketing > Email > Chuỗi email
+T08,correct,F026,Phễu bán hàng > Hoa hồng của tôi,Bán hàng > Hoa hồng nhân viên > Hoa hồng của tôi,Của tôi > Hoa hồng của tôi,Trang chủ > Của tôi > Hoa hồng của tôi
+T09,correct,F038,Thanh toán & Hợp đồng > Báo giá,Bán hàng > Báo giá & phê duyệt > Báo giá,Bán hàng > Báo giá & phê duyệt > Báo giá,Bán hàng (CRM) > Báo giá & phê duyệt > Báo giá
+T10,correct,F086,Báo cáo & Hiệu suất > Báo cáo P&L,Tài chính > Kế toán > Báo cáo lãi lỗ (P&L),Tài chính > Kế toán > Báo cáo lãi lỗ (P&L),Đơn hàng & Tài chính (ERP) > Kế toán > Báo cáo lãi lỗ (P&L)
+T10,acceptable,F085,Báo cáo & Hiệu suất > Tài chính,Tài chính > Kế toán > Tổng quan tài chính,Tài chính > Kế toán > Tổng quan tài chính,Đơn hàng & Tài chính (ERP) > Kế toán > Tổng quan tài chính
+T11,correct,F066,Landing & Phễu > Phân công lead,Marketing > Khách tiềm năng > Phân công lead,Marketing > Khách tiềm năng > Phân công lead,Marketing > Khách tiềm năng > Phân công lead
+T12,correct,F011,CRM Core > Sức khoẻ khách hàng,Khách hàng > Sức khoẻ khách hàng,Bán hàng > Khách hàng > Sức khoẻ khách hàng,Bán hàng (CRM) > Khách hàng > Sức khoẻ khách hàng
+T12,acceptable,F013,CRM Core > Cảnh báo,Khách hàng > Cảnh báo khách hàng,Bán hàng > Khách hàng > Cảnh báo khách hàng,Bán hàng (CRM) > Khách hàng > Cảnh báo khách hàng

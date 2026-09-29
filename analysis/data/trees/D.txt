@@ -1,0 +1,187 @@
+Trang chủ
+	Tổng quan
+	Của tôi
+		Việc cần làm của tôi
+		Chỉ tiêu của tôi
+		Hoa hồng của tôi
+Bán hàng (CRM)
+	Khách hàng
+		Tổng quan khách hàng
+		Liên hệ
+		Nhập liên hệ
+		Doanh nghiệp
+		Khách tiềm năng (Lead)
+		Bảng kanban khách hàng
+		Danh sách khách hàng
+		Sức khoẻ khách hàng
+		Cảnh báo khách hàng
+		Gộp dữ liệu trùng
+	Thương vụ
+		Cơ hội bán
+		Bảng kanban thương vụ
+		Danh sách thương vụ
+		Thắng / Thua
+		Lý do thất bại
+		Báo cáo phễu bán hàng
+	Báo giá & phê duyệt
+		Báo giá
+		Yêu cầu chờ duyệt
+	Dự báo & chỉ tiêu
+		Dự báo doanh số
+		Mô phỏng doanh số (what-if)
+		Chỉ tiêu (hạn ngạch)
+	Hoa hồng nhân viên
+		Kế hoạch hoa hồng
+		Chi trả hoa hồng nhân viên
+	Hội thoại
+		Hộp thư
+		SMS
+		Zalo ZNS
+Marketing
+	Email
+		Tổng quan email
+		Chiến dịch email
+		Chuỗi email
+		Mẫu email
+		Người đăng ký
+		Danh sách email
+		Phân khúc
+		Biểu mẫu
+		Báo cáo email
+	Landing & phễu marketing
+		Sơ đồ phễu marketing
+		Trang đích
+		Mã QR
+		Link UTM
+	Khách tiềm năng
+		Chấm điểm lead
+		Phân công lead
+		Nguồn lead
+		Hành trình khách hàng
+		Nguồn & hành trình
+		Quy tắc ghi nhận chuyển đổi
+	Affiliate
+		Tổng quan affiliate
+		Đại lý
+		Link giới thiệu
+		Chuyển đổi affiliate
+		Chi trả hoa hồng đại lý
+Đơn hàng & Tài chính (ERP)
+	Sản phẩm & kho
+		Sản phẩm
+		Danh mục sản phẩm
+		Bảng giá
+		Chiết khấu
+		Combo
+		Tồn kho
+	Đơn hàng
+		Đơn hàng
+		Báo cáo đơn hàng
+	Thu tiền
+		Hoá đơn
+		Thanh toán
+		Giao dịch SePay
+		Công nợ theo tuổi nợ
+		Đối soát
+	Hợp đồng
+		Chữ ký điện tử
+	Kế toán
+		Tổng quan tài chính
+		Báo cáo lãi lỗ (P&L)
+		Bảng cân đối
+		Lưu chuyển tiền tệ
+		Hệ thống tài khoản kế toán
+		Bút toán
+		Ngân sách
+		Trung tâm chi phí
+Nhân sự (HRM)
+	Tổ chức
+		Nhân sự
+		Sơ đồ tổ chức
+		Phòng ban
+		Vị trí / chức danh
+	Dự án nội bộ
+		Dự án nội bộ
+		Gantt portfolio
+		ROI dự án
+	Quy trình
+		Checklists
+Báo cáo & Mục tiêu
+	Báo cáo
+		Trang chủ báo cáo
+		Bảng điều khiển
+		Tổng quan hiệu suất
+		Báo cáo
+		Mẫu báo cáo
+		Lịch gửi báo cáo
+		Xuất dữ liệu
+		Mô phỏng what-if
+	Mục tiêu & KPI
+		KPI Tree
+		OKR
+		Cây liên kết mục tiêu
+		Check-ins
+		Hiệu suất phòng ban & team
+		Đánh giá độ trưởng thành
+Tự động hoá
+	Luồng
+		Luồng tự động
+		Mẫu luồng
+		Lịch sử chạy luồng
+	Quy tắc
+		Quy tắc cảnh báo
+Quản trị
+	Người dùng & bảo mật
+		Đội nhóm
+		Vai trò
+		Phân quyền
+		Bảo mật
+		Nhật ký kiểm toán
+		Quản trị toàn hệ thống
+	Cấu hình dữ liệu
+		Trường tuỳ chỉnh
+		Thẻ
+		Pipeline bán hàng
+		Quy trình phê duyệt
+	Kênh gửi
+		Tài khoản email
+		Biến email
+		Tài khoản SMS
+		Zalo OA
+		Quy tắc hộp thư
+	Thanh toán
+		Cài đặt thanh toán
+		Tài khoản SePay
+	Affiliate
+		Cài đặt affiliate
+	AI
+		Cấu hình AI
+		Kết nối AI
+		Mức dùng AI
+		Kho kiến thức AI
+	Tích hợp
+		Google
+		Google Analytics
+		Google Sheets
+		Đồng bộ Sheet
+		WEDU sync
+		Kênh kết nối
+		Webhook
+		Webhook đẩy ra
+		Nhật ký đồng bộ
+		Website & app theo dõi
+	Nhà phát triển
+		API & MCP
+		MCP
+		API docs
+		CLI
+Trợ lý AI
+	Trò chuyện
+	Lịch sử trò chuyện
+	Tìm tài liệu
+Thông báo
+	Thông báo
+	Cảnh báo hệ thống
+Tài khoản
+	Hồ sơ
+Trợ giúp
